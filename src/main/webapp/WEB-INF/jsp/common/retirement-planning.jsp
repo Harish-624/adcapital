@@ -157,6 +157,13 @@
             Your current expenses will likely increase due to inflation and rising costs of living. It's essential to start planning for retirement as early as possible to ensure a comfortable and secure future.
           </p>
         </div>
+
+        <div class="sr-child" style="background: rgba(255, 152, 0, 0.07); border-left: 4px solid #ff9800; padding: 20px; border-radius: 0 12px 12px 0; margin-top: 20px;">
+          <h4 style="font-size: 1.15rem; font-weight: 700; color: var(--text-dark); margin-bottom: 8px;">Did you know?</h4>
+          <p style="color: var(--text-muted); font-size: 15px; margin-bottom: 0;">
+            Over 56% of parents in India depend on their children for financial support during retirement.
+          </p>
+        </div>
       </div>
     </div>
 

@@ -629,7 +629,7 @@
                                 <div style="width: 4px; height: 4px; border-radius: 50%; background: #009899; margin: 0 8px;"></div>
                                 <div style="height: 1px; width: 30px; background: rgba(0, 152, 153, 0.3);"></div>
                             </div>
-                            <p class="mb-4 sr-child">Welcome to A D Capital Investment, where your financial growth
+                            <p class="text-muted fs-5 mb-5 lh-base sr-child">Welcome to A D Capital Investment, where your financial growth
                                 is our
                                 priority. With over a decade of experience in the financial sector, we specialize in
                                 providing expertly managed mutual fund solutions tailored to meet the unique needs of

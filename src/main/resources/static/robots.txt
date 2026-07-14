@@ -1,0 +1,59 @@
+# robots.txt for www.adcapitalinvestment.com
+User-agent: *
+Allow: /
+
+# Public pages
+Allow: /home
+Allow: /aboutus
+Allow: /team
+Allow: /services
+Allow: /services-detail
+Allow: /services/mutual-fund
+Allow: /services/insurance-renewal
+Allow: /services/fixed-income-products
+Allow: /blog
+Allow: /news
+Allow: /contactus
+Allow: /faq
+Allow: /faq/mutual-funds
+Allow: /faq/financial-planning
+Allow: /faq/nri-corner
+Allow: /plan-a-goal
+Allow: /our-offices
+Allow: /mission-values
+Allow: /testimonials
+Allow: /mutual-funds
+Allow: /mutual-funds-research
+Allow: /financial-planning
+Allow: /private-wealth-clients
+Allow: /we-can-help-you
+Allow: /how-we-invest
+Allow: /our-story
+Allow: /overview
+Allow: /risk-protection
+Allow: /wealth-management
+Allow: /real-estate
+Allow: /mortgages
+Allow: /meet-plutus
+Allow: /become-a-plutus-partner
+Allow: /broking-accounts
+Allow: /podcasts
+Allow: /commission-disclosures
+Allow: /mandatory-disclosures
+Allow: /privacy-policy
+Allow: /terms-and-conditions
+Allow: /post-your-queries
+Allow: /associate-registration
+Allow: /info-graphics/find-the-best-80c-investment
+
+# Disallow internal/API endpoints
+Disallow: /WEB-INF/
+Disallow: /logout
+Disallow: /getPortfolioAnalysis
+Disallow: /getCompleteNavReportForFundOverview
+Disallow: /isValidFundName
+Disallow: /getRelatedfunds
+Disallow: /download/
+
+# Sitemap
+Sitemap: https://www.adcapitalinvestment.com/sitemap.xml

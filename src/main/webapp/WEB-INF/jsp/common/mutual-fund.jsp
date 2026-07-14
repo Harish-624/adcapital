@@ -148,8 +148,8 @@
       <div class="col-md-6 col-lg-4 sr-child">
         <div class="mv-card">
           <div class="mv-icon"><i class="fas fa-file-invoice-dollar"></i></div>
-          <h4 style="font-size: 1.2rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">Bond Funds</h4>
-          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Invest in fixed-income securities like government or corporate bonds, providing regular income streams.</p>
+          <h4 style="font-size: 1.2rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">Debt Funds</h4>
+          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Invest in fixed-income instruments like government securities, corporate bonds, and money market instruments, offering stable returns with lower risk.</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-4 sr-child">

@@ -390,8 +390,8 @@
                 specialize in providing expertly managed mutual fund solutions tailored to meet the unique needs of
                 individuals, businesses, and Non-Resident Indian (NRI) / Overseas Citizen of India (OCI) clients.</p>
 
-              <div class="about-quote sr-child">
-                "We have a strong client base of over 200+ across India and globally in mutual funds and insurance."
+              <div class="about-quote sr-child" style="--sr-idx: 5; --sr-idx-rev: 5;">
+                "We have a strong client base of over 400+ across India and globally in mutual funds and insurance."
               </div>
 
               <h6 class="mb-3 mt-4 sr-child" style="font-weight:700; color:#1a1f2e; font-size: 1.1rem;">Our comprehensive
@@ -403,6 +403,7 @@
                 <span class="service-tag"><i class="fas fa-check-circle"></i> Retirement Planning</span>
                 <span class="service-tag"><i class="fas fa-check-circle"></i> Expert Financial Consulting</span>
                 <span class="service-tag"><i class="fas fa-check-circle"></i> Comprehensive Insurance</span>
+                <span class="service-tag"><i class="fas fa-check-circle"></i> Global investing via Gift City</span>
               </div>
 
               <p class="mb-3 sr-child" style="color: #4b5563;">Our mission is to help you navigate your financial journey with
@@ -422,7 +423,7 @@
           <div class="row justify-content-center align-items-center g-4 sr-section">
             <div class="col-6 col-md-3 sr-child">
               <div class="stat-block">
-                <div class="stat-num"><span class="counter-value" data-target="200" data-suffix="+">0+</span></div>
+                <div class="stat-num"><span class="counter-value" data-target="400" data-suffix="+">0+</span></div>
                 <div class="stat-lbl">Clients Globally</div>
               </div>
             </div>
@@ -440,7 +441,7 @@
             </div>
             <div class="col-6 col-md-3 sr-child">
               <div class="stat-block">
-                <div class="stat-num"><span class="counter-value" data-target="500" data-suffix="+">0+</span></div>
+                <div class="stat-num"><span class="counter-value" data-target="1000" data-suffix="+">0+</span></div>
                 <div class="stat-lbl">Individuals Mentored</div>
               </div>
             </div>
@@ -449,7 +450,7 @@
             </div>
             <div class="col-6 col-md-2 sr-child">
               <div class="stat-block">
-                <div class="stat-num"><span class="counter-value" data-target="5" data-suffix="">0</span></div>
+                <div class="stat-num"><span class="counter-value" data-target="10" data-suffix="">0</span></div>
                 <div class="stat-lbl">Expert Team</div>
               </div>
             </div>

@@ -629,7 +629,7 @@
                                 <div style="width: 4px; height: 4px; border-radius: 50%; background: #009899; margin: 0 8px;"></div>
                                 <div style="height: 1px; width: 30px; background: rgba(0, 152, 153, 0.3);"></div>
                             </div>
-                            <p class="mb-4 sr-child">Welcome to A D Capital Investment, where your financial growth
+                            <p class="text-muted fs-5 mb-5 lh-base sr-child">Welcome to A D Capital Investment, where your financial growth
                                 is our
                                 priority. With over a decade of experience in the financial sector, we specialize in
                                 providing expertly managed mutual fund solutions tailored to meet the unique needs of
@@ -1469,8 +1469,7 @@
                             <div class="border-top mt-4 pt-3">
                                 <p class="mb-0">I want to express my gratitude to A D Capital investment for helping me
                                     to establish a solid financial foundation for my life. After I began consulting
-                                    them, I felt really happy and secure.</p>
-                                <p class="mb-0">Their extensive understanding of the stock market and life insurance
+                                    them, I felt really happy and secure.Their extensive understanding of the stock market and life insurance
                                     amazes me, and I wish them to assist many others like me to build more financially
                                     fulfilling lives.</p>
                             </div>

@@ -195,7 +195,7 @@
       <div class="col-md-6 col-lg-4 sr-child">
         <div class="svc-card">
           <div class="svc-card-inner">
-            <div class="svc-icon"><i class="fas fa-file-invoice-dollar"></i></div>
+            <div class="svc-icon"><i class="fas fa-rupee-sign"></i></div>
             <h4>Loan</h4>
             <p>A sum of money borrowed with an agreement to repay over time with interest. We help you find the right loan products aligned with your financial capacity.</p>
             <a href="/services/loans" class="svc-link">Explore Service <i class="fas fa-arrow-right fa-sm"></i></a>

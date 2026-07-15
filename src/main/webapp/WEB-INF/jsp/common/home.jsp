@@ -533,65 +533,79 @@
                                     confidence.</p>
                             </div>
                         </div>
-                        <div class="row sr-section">
-                            <div class="col-md-3 mb-4 mb-md-0 sr-child">
+                        <div class="row justify-content-center sr-section">
+                            <div class="col-md-4 mb-4 sr-child">
                                 <a href="/services/mutual-fund">
                                     <div class="card service-card border-0 text-center">
                                         <div class="card-body px-4 py-4">
                                             <div class="icon-glow-wrapper">
                                                 <div class="icon-glow"></div>
-                                                <img src="/images/home/mutual-fund-3d.png" width="140px"
+                                                <img src="/images/home/mutual-fund-3d.png" width="155px"
                                                     class="floating-icon">
                                             </div>
                                             <h5 class="mb-3">Mutual Fund <br>Advisory</h5>
-                                            <p class="mb-1 text-dark">Mutual funds are investment vehicles...</p>
+                                            <p class="mb-1 text-dark">Mutual funds are investment vehicles that pool money... <span style="color: #009899; font-weight: 500;">Read more</span></p>
                                         </div>
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-md-3 mb-4 mb-md-0 sr-child">
+                            <div class="col-md-4 mb-4 sr-child">
                                 <a href="/services/goal-planning">
                                     <div class="card service-card border-0 text-center">
                                         <div class="card-body px-4 py-4">
                                             <div class="icon-glow-wrapper">
                                                 <div class="icon-glow"></div>
-                                                <img src="/images/home/Goal_Planning_3d.png" width="140px"
+                                                <img src="/images/home/Goal_Planning_3d.png" width="155px"
                                                     class="floating-icon">
                                             </div>
-                                            <h5 class="mb-3">Goal-Oriented Financial Planning</h5>
-                                            <p class="mb-1 text-dark">Ever thought what you want to be doing...</p>
+                                            <h5 class="mb-3">Goal-Oriented <br>Financial Planning</h5>
+                                            <p class="mb-1 text-dark">Have you ever wondered where you want to be in five years?... <span style="color: #009899; font-weight: 500;">Read more</span></p>
                                         </div>
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-md-3 mb-4 mb-md-0 sr-child">
+                            <div class="col-md-4 mb-4 sr-child">
                                 <a href="/services/retirement-planning">
                                     <div class="card service-card border-0 text-center">
                                         <div class="card-body px-4 py-4">
                                             <div class="icon-glow-wrapper">
                                                 <div class="icon-glow"></div>
-                                                <img src="/images/home/retirement-3d.png" width="140px"
+                                                <img src="/images/home/retirement-3d.png" width="155px"
                                                     class="floating-icon">
                                             </div>
-                                            <h5 class="mb-3">Retirement Planning for a Secured Future</h5>
-                                            <p class="mb-1 text-dark">The plan and action of accumulating a certain...
-                                            </p>
+                                            <h5 class="mb-3">Retirement Planning for a <br>Secured Future</h5>
+                                            <p class="mb-1 text-dark">The plan and action of accumulating a specific amount of money... <span style="color: #009899; font-weight: 500;">Read more</span></p>
                                         </div>
                                     </div>
                                 </a>
                             </div>
-                            <div class="col-md-3 mb-4 mb-md-0 sr-child">
+                            <div class="col-md-4 mb-4 sr-child">
                                 <a href="/services/health-insurance">
                                     <div class="card service-card border-0 text-center">
                                         <div class="card-body px-4 py-4">
                                             <div class="icon-glow-wrapper">
                                                 <div class="icon-glow"></div>
-                                                <img src="/images/home/health-3d.png" width="140px"
+                                                <img src="/images/home/health-3d.png" width="155px"
                                                     class="floating-icon">
                                             </div>
                                             <h5 class="mb-3">Life Insurance and Health Insurance</h5>
-                                            <p class="mb-1 text-dark">Tailor made insurance selection on need and want
-                                                basis...</p>
+                                            <p class="mb-1 text-dark">Tailor made insurance selection on need and want basis... <span style="color: #009899; font-weight: 500;">Read more</span></p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- Gift City -->
+                            <div class="col-md-4 mb-4 sr-child">
+                                <a href="/services/gift-city">
+                                    <div class="card service-card border-0 text-center">
+                                        <div class="card-body px-4 py-4">
+                                            <div class="icon-glow-wrapper">
+                                                <div class="icon-glow"></div>
+                                                <img src="/images/home/gift-city-3d.png" width="155px"
+                                                    class="floating-icon">
+                                            </div>
+                                            <h5 class="mb-3">Gift City</h5>
+                                            <p class="mb-1 text-dark">Explore global financial investment opportunities through GIFT City... <span style="color: #009899; font-weight: 500;">Read more</span></p>
                                         </div>
                                     </div>
                                 </a>
@@ -687,7 +701,7 @@
                     <div class="row justify-content-center g-3 pb-4">
                         <div class="col-6 col-md sr-child">
                             <div class="invest-card text-center h-100">
-                                <p class="card-label">Bank</p>
+                                <p class="card-label">Savings Account</p>
                                 <div class="card-amount">&#8377;<span id="txt_home_slider_bank">22.36L</span></div>
                                 <span class="card-return-badge">@3% Return</span>
                             </div>

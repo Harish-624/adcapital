@@ -142,42 +142,42 @@
         <div class="mv-card">
           <div class="mv-icon"><i class="fas fa-chart-line"></i></div>
           <h4 style="font-size: 1.2rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">Equity Funds</h4>
-          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Invest primarily in stocks or equities, focusing on long-term capital appreciation and growth.</p>
+          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Invest primarily in company shares to generate long-term capital appreciation. Suitable for investors seeking higher growth with a higher risk appetite.</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-4 sr-child">
         <div class="mv-card">
-          <div class="mv-icon"><i class="fas fa-file-invoice-dollar"></i></div>
+          <div class="mv-icon"><i class="fas fa-rupee-sign"></i></div>
           <h4 style="font-size: 1.2rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">Debt Funds</h4>
-          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Invest in fixed-income instruments like government securities, corporate bonds, and money market instruments, offering stable returns with lower risk.</p>
+          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Invest in fixed-income instruments such as government securities, treasury bills, and corporate bonds. Ideal for stable income and lower risk.</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-4 sr-child">
         <div class="mv-card">
           <div class="mv-icon"><i class="fas fa-balance-scale"></i></div>
-          <h4 style="font-size: 1.2rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">Balanced Funds</h4>
-          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Also known as asset allocation funds, these invest in a mix of stocks and bonds to achieve a balanced portfolio.</p>
+          <h4 style="font-size: 1.2rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">Hybrid Funds</h4>
+          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Combine equity and debt investments to balance growth potential with capital preservation, making them suitable for moderate-risk investors.</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-4 sr-child">
         <div class="mv-card">
           <div class="mv-icon"><i class="fas fa-chart-pie"></i></div>
           <h4 style="font-size: 1.2rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">Index Funds</h4>
-          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Aim to replicate the performance of a specific market index, such as the S&P 500 or Nifty 50.</p>
+          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Passively track benchmark indices such as the Nifty 50 or Sensex, offering low-cost diversification and market-linked returns.</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-4 sr-child">
         <div class="mv-card">
-          <div class="mv-icon"><i class="fas fa-star"></i></div>
-          <h4 style="font-size: 1.2rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">Specialty Funds</h4>
-          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Focus on specific sectors or themes, such as technology, healthcare, or socially responsible investing.</p>
+          <div class="mv-icon"><i class="fas fa-globe"></i></div>
+          <h4 style="font-size: 1.2rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">International Funds</h4>
+          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Invest in global markets and international companies, helping investors diversify geographically and gain exposure to global growth opportunities.</p>
         </div>
       </div>
       <div class="col-md-6 col-lg-4 sr-child">
         <div class="mv-card">
-          <div class="mv-icon"><i class="fas fa-shield-alt"></i></div>
-          <h4 style="font-size: 1.2rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">Liquidity & Regulation</h4>
-          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Highly liquid and regulated by authorities to protect investors' interests, ensuring transparency and fair practices.</p>
+          <div class="mv-icon"><i class="fas fa-bullseye"></i></div>
+          <h4 style="font-size: 1.2rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">Solution-Oriented & Specialty Funds</h4>
+          <p style="color: #6b7280; font-size: 15px; line-height: 1.7; margin-bottom: 0;">Designed for specific financial goals or themes, such as retirement, children's education, sectoral investments or technology-focused portfolios.</p>
         </div>
       </div>
     </div>
@@ -189,22 +189,8 @@
           <span class="about-label">Knowledge</span>
           <h2 style="font-size: 2.2rem; font-weight: 700; color: #1a1f2e;">Taxation of Mutual Funds</h2>
         </div>
-        <div class="mv-card p-4 sr-child" style="height: auto;">
-          <p style="color: #6b7280; font-size: 15px; line-height: 1.8; margin-bottom: 24px;">
-            Mutual funds whose average equity allocation (i.e. where underlying assets are equity and equity related securities) is 65% or more are treated as equity funds from a tax perspective. These include all equity funds and also several hybrid fund categories. Short term capital gains (investment holding period of less than 12 months) in equity funds are taxed at 20%. Long term capital gains (investment holding period of more than 12 months) in equity funds are tax free up to Rs 125,000 in a financial year and taxed at 12.5% thereafter.
-          </p>
-          <p style="color: #6b7280; font-size: 15px; line-height: 1.8; margin-bottom: 24px;">
-            With regards to Debt funds, short term capital gains (investment holding period of less than 36 months) in non-equity funds are taxed as per the income tax rate of the investor. Long term capital gains (investment holding period of more than 36 months) in non-equity funds are taxed at 20% after allowing for indexation for investments made prior to 1st April 2023. However, following the Amendment to Finance Bill 2023, the indexation benefit on debt mutual funds has been withdrawn. Debt funds will now be taxed at the investor's tax slab rate. These changes bring taxation of debt and debt oriented mutual funds at par with fixed deposits for investments made from 1st April 2023 onward.
-          </p>
-          <p style="color: #6b7280; font-size: 15px; line-height: 1.8; margin-bottom: 24px;">
-            Other mutual funds including schemes with equity allocation between 35 - 65% and schemes of asset classes other than equity and debt, e.g. commodities, international etc have long term capital gains taxation holding period of 2 years. Short term capital gains are taxed at investor's tax slab rate, while long term capital gains are taxed at 12.5% (no indexation).
-          </p>
-          <div style="background: rgba(0, 152, 153, 0.05); border-left: 4px solid #009899; padding: 20px; border-radius: 0 12px 12px 0;">
-            <p style="color: #1a1f2e; font-size: 15px; line-height: 1.7; margin-bottom: 0; font-weight: 500;">
-              <i class="fas fa-info-circle" style="color: #009899; margin-right: 8px;"></i>
-              Investments in mutual fund Equity Linked Savings Schemes (ELSS) up to Rs 150,000 in a financial year qualify for deductions under Section 80C of The Income Tax Act 1961.
-            </p>
-          </div>
+        <div class="sr-child text-center mt-4">
+          <img src="/images/services/Taxation_Mutual_fund.jpeg" class="img-fluid rounded-4 shadow-lg" alt="Taxation of Mutual Funds" style="width: 100%; border: 1px solid rgba(0,0,0,0.05);">
         </div>
       </div>
     </div>

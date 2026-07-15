@@ -402,7 +402,7 @@
             </div>
             <div class="col-md-6 col-lg-4 sr-child">
               <div class="mv-card">
-                <div class="mv-icon"><i class="fas fa-shield-virus"></i></div>
+                <div class="mv-icon"><i class="fas fa-user-shield"></i></div>
                 <h4 style="font-size: 1.15rem; font-weight: 700; color: #1a1f2e; margin-bottom: 12px;">Cyber Liability
                 </h4>
                 <p style="color: #6b7280; font-size: 14px; line-height: 1.7; margin-bottom: 0;">Protection from data

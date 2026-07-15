@@ -342,7 +342,7 @@
                         <h3>Start Your Global Investment Journey Today</h3>
                         <p>Schedule a consultation and discover how a globally diversified portfolio can support your long-term financial goals.</p>
                         <div class="cta-buttons">
-                            <a href="/contact-us" class="btn-primary-premium">Schedule Consultation</a>
+                            <a href="/contactus" class="btn-primary-premium">Schedule Consultation</a>
                         </div>
                     </div>
                 </div>

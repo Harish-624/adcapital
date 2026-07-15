@@ -77,8 +77,8 @@
                         <div class="d-flex align-items-start gap-2">
                             <i class="fas fa-phone-alt" style="color: #0d9997; margin-top: 4px;"></i>
                             <span>
-                                <a href="tel:+917402515544" class="text-decoration-none" style="color: #d1d5db;">+91-74025 15544</a> | 
-                                <a href="tel:+918667847016" class="text-decoration-none" style="color: #d1d5db;">+91-86678 47016</a>
+                                <a href="tel:+917402515544" class="text-decoration-none" style="color: #d1d5db;">+91-74025 15544 (India)</a> | 
+                                <a href="tel:+918667847016" class="text-decoration-none" style="color: #d1d5db;">+91-86678 47016 (India)</a>
                                 <br>
                                 <a href="tel:+966541180621" class="text-decoration-none" style="color: #d1d5db;">+966 541180621 (Saudi Arabia)</a>
                             </span>

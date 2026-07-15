@@ -379,8 +379,8 @@ textarea.premium-input {
             </div>
             <div class="info-content sr-child sr-from-top">
               <h3>Call Us</h3>
-              <a href="tel:+917402515544" target="_blank" class="d-block">+91-74025 15544</a>
-              <a href="tel:+918667847016" target="_blank" class="d-block">+91-86678 47016</a>
+              <a href="tel:+917402515544" target="_blank" class="d-block">+91-74025 15544 (India)</a>
+              <a href="tel:+918667847016" target="_blank" class="d-block">+91-86678 47016 (India)</a>
               <a href="tel:+966541180621" target="_blank" class="d-block">+966 54118 0621 (Saudi Arabia)</a>
             </div>
           </div>

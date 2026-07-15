@@ -669,6 +669,7 @@
                   <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
                   <div class="dropdown-menu rounded">
                     <a href="/services/mutual-fund" class="dropdown-item">Mutual Fund Advisory</a>
+                    <a href="/services/gift-city" class="dropdown-item">Gift City</a>
                     <a href="/services/child-education" class="dropdown-item">Exclusive Child Education planning</a>
                     <a href="/services/goal-planning" class="dropdown-item">Goal-Oriented Financial Planning</a>
                     <a href="/services/retirement-planning" class="dropdown-item">Retirement Planning for a Secured

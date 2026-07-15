@@ -172,16 +172,16 @@
           <ul class="nav nav-pills custom-nav-pills sr-reveal" data-sr-reveal-delay="0.1s" id="pills-tab"
             role="tablist">
             <li class="nav-item" role="presentation">
+              <button class="nav-link ${activeTab == 'process' ? 'active' : ''}" id="pills-process-tab" data-bs-toggle="pill" data-bs-target="#pills-process"
+                type="button" role="tab" aria-controls="pills-process" aria-selected="${activeTab == 'process'}">Our Process</button>
+            </li>
+            <li class="nav-item" role="presentation">
               <button class="nav-link ${activeTab == 'process' ? '' : 'active'}" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home"
                 type="button" role="tab" aria-controls="pills-home" aria-selected="${activeTab != 'process'}">Important Links</button>
             </li>
             <li class="nav-item" role="presentation">
               <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile"
                 type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Recommended Books</button>
-            </li>
-            <li class="nav-item" role="presentation">
-              <button class="nav-link ${activeTab == 'process' ? 'active' : ''}" id="pills-process-tab" data-bs-toggle="pill" data-bs-target="#pills-process"
-                type="button" role="tab" aria-controls="pills-process" aria-selected="${activeTab == 'process'}">Our Process</button>
             </li>
           </ul>
 

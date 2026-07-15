@@ -8,5 +8,5 @@ RUN mvn clean package -DskipTests
 FROM eclipse-temurin:17-jre
 WORKDIR /app
 COPY --from=build /app/target/*.war app.war
-EXPOSE 8080
-ENTRYPOINT ["sh", "-c", "java -jar app.war --server.port=${PORT:-8080} --server.address=0.0.0.0"]
+EXPOSE 10000
+ENTRYPOINT ["sh", "-c", "java -jar app.war --server.port=${PORT:-10000} --server.address=0.0.0.0 --spring.main.lazy-initialization=true"]

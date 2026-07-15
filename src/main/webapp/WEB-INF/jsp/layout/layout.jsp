@@ -5,8 +5,24 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 <html lang="en">
    <head>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-C49Q8CY0KF"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-C49Q8CY0KF');
+        </script>
         <meta charset="utf-8">
         <link href="/images/fav.png" rel="icon">
+        <%-- Canonical URL (production domain + current path, no query string) --%>
+        <% String canonicalPath = (String) request.getAttribute("javax.servlet.forward.request_uri");
+           if (canonicalPath == null || canonicalPath.isEmpty()) canonicalPath = request.getRequestURI();
+           if (canonicalPath == null || canonicalPath.isEmpty()) canonicalPath = "/";
+           String canonicalUrl = "https://www.adcapitalinvestment.com" + canonicalPath;
+        %>
+        <link rel="canonical" href="<%= canonicalUrl %>" />
         <title>A D Capital</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
@@ -52,6 +68,168 @@
 
 <!-- Font Awesome for icons -->
 
+        <%-- Organization Schema (JSON-LD) for SEO & LLM identity --%>
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "A D Capital Investment",
+          "alternateName": "AD Capital",
+          "url": "https://www.adcapitalinvestment.com",
+          "logo": "https://www.adcapitalinvestment.com/images/logo/logo1.png",
+          "image": "https://www.adcapitalinvestment.com/images/logo/logo1.png",
+          "description": "A D Capital Investment is an AMFI-certified mutual fund distributor offering mutual fund investments, financial planning, insurance, wealth management, and NRI investment services across India and Saudi Arabia.",
+          "foundingDate": "2024",
+          "email": "connect@adcapitalinvestment.com",
+          "telephone": ["+91-74025-15544", "+91-86678-47016", "+966-541180621"],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "1/95, Post Office Road, Vettaikaraniruppu",
+            "addressLocality": "Nagapattinam",
+            "addressRegion": "Tamil Nadu",
+            "postalCode": "611112",
+            "addressCountry": "IN"
+          },
+          "sameAs": [
+            "https://www.instagram.com/aravind__elangovan",
+            "https://youtube.com/shorts/rWfT_5NitG4?feature=shared"
+          ],
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+91-74025-15544",
+              "contactType": "customer service",
+              "areaServed": "IN",
+              "availableLanguage": ["English", "Tamil"]
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+966-541180621",
+              "contactType": "customer service",
+              "areaServed": "SA",
+              "availableLanguage": ["English"]
+            }
+          ],
+          "hasCredential": {
+            "@type": "EducationalOccupationalCredential",
+            "credentialCategory": "AMFI Certification",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Association of Mutual Funds in India (AMFI)"
+            }
+          },
+          "knowsAbout": [
+            "Mutual Funds",
+            "Financial Planning",
+            "Wealth Management",
+            "Insurance",
+            "NRI Investments",
+            "SIP Calculator",
+            "Goal Planning",
+            "Retirement Planning"
+          ]
+        }
+        </script>
+
+        <%-- WebSite Schema (JSON-LD) --%>
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "A D Capital Investment",
+          "url": "https://www.adcapitalinvestment.com",
+          "publisher": {
+            "@type": "Organization",
+            "name": "A D Capital Investment",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://www.adcapitalinvestment.com/images/logo/logo1.png"
+            }
+          },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.adcapitalinvestment.com/mutual-funds-research?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+        </script>
+
+        <%-- Dynamic WebPage + BreadcrumbList Schema (JSON-LD) --%>
+        <%
+          String wpPath = (String) request.getAttribute("javax.servlet.forward.request_uri");
+          if (wpPath == null || wpPath.isEmpty()) wpPath = request.getRequestURI();
+          if (wpPath == null || wpPath.isEmpty()) wpPath = "/";
+          String wpUrl = "https://www.adcapitalinvestment.com" + wpPath;
+
+          // Build a human-readable page name from the URI path
+          String wpName = "A D Capital Investment";
+          if (!wpPath.equals("/")) {
+            String slug = wpPath.startsWith("/") ? wpPath.substring(1) : wpPath;
+            if (slug.endsWith("/")) slug = slug.substring(0, slug.length() - 1);
+            // Take last segment for the page name
+            String[] segments = slug.split("/");
+            String lastSeg = segments[segments.length - 1];
+            // Convert kebab-case to Title Case
+            String[] words = lastSeg.split("-");
+            StringBuilder sb = new StringBuilder();
+            for (String w : words) {
+              if (w.length() > 0) {
+                sb.append(Character.toUpperCase(w.charAt(0)));
+                if (w.length() > 1) sb.append(w.substring(1));
+                sb.append(' ');
+              }
+            }
+            wpName = sb.toString().trim() + " | A D Capital Investment";
+          }
+
+          // Build breadcrumb JSON items
+          StringBuilder bcItems = new StringBuilder();
+          bcItems.append("{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.adcapitalinvestment.com/\"}");
+          if (!wpPath.equals("/")) {
+            String[] pathSegs = (wpPath.startsWith("/") ? wpPath.substring(1) : wpPath).split("/");
+            StringBuilder cumPath = new StringBuilder();
+            for (int i = 0; i < pathSegs.length; i++) {
+              cumPath.append("/").append(pathSegs[i]);
+              String[] segWords = pathSegs[i].split("-");
+              StringBuilder segName = new StringBuilder();
+              for (String w : segWords) {
+                if (w.length() > 0) {
+                  segName.append(Character.toUpperCase(w.charAt(0)));
+                  if (w.length() > 1) segName.append(w.substring(1));
+                  segName.append(' ');
+                }
+              }
+              bcItems.append(",{\"@type\":\"ListItem\",\"position\":")
+                     .append(i + 2)
+                     .append(",\"name\":\"")
+                     .append(segName.toString().trim())
+                     .append("\",\"item\":\"https://www.adcapitalinvestment.com")
+                     .append(cumPath.toString())
+                     .append("\"}");
+            }
+          }
+        %>
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "name": "<%= wpName %>",
+          "url": "<%= wpUrl %>",
+          "isPartOf": {
+            "@type": "WebSite",
+            "name": "A D Capital Investment",
+            "url": "https://www.adcapitalinvestment.com"
+          },
+          "about": {
+            "@type": "Organization",
+            "name": "A D Capital Investment"
+          },
+          "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [<%= bcItems.toString() %>]
+          }
+        }
+        </script>
 
     </head>
    <body>

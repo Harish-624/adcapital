@@ -322,7 +322,7 @@
                                     <span class="hero-eyebrow-line"></span>
                                     <span>GIFT City</span>
                                 </div>
-                                <h1 class="hero-headline">Global Investment<br><span style="color: #0d9997;">Opportunities</span></h1>
+                                <h2 class="hero-headline">Global Investment<br><span style="color: #0d9997;">Opportunities</span></h2>
                                 <p class="hero-sub">Through India's GIFT City</p>
                                 <p class="hero-desc">Access world-class financial products with tax-efficient solutions, global diversification, and seamless investment opportunities.</p>
                                 <div class="hero-actions">
@@ -345,8 +345,8 @@
                                     <span class="hero-eyebrow-line"></span>
                                     <span>Health Protection</span>
                                 </div>
-                                <h1 class="hero-headline">Protect Your Wellness,<br><span style="color: #0d9997;">Secure
-                                        Your Future.</span></h1>
+                                <h2 class="hero-headline">Protect Your Wellness,<br><span style="color: #0d9997;">Secure
+                                        Your Future.</span></h2>
                                 <p class="hero-sub">We have secured health insurance coverage worth over <span
                                         style="color: #0d9997; font-weight: 700;">&nbsp;&#8377;100+ crores&nbsp;</span>
                                     for clients across India and globally.</p>
@@ -373,7 +373,7 @@
                                     <span class="hero-eyebrow-line"></span>
                                     <span>Life Security</span>
                                 </div>
-                                <h1 class="hero-headline">Do you have enough Life Insurance Cover?</h1>
+                                <h2 class="hero-headline">Do you have enough Life Insurance Cover?</h2>
                                 <p class="hero-sub">
                                     We have secured Life insurance coverage worth over
                                     <span style="color:#0d9997;font-weight:700;">&#8377;100+ crores</span>
@@ -492,25 +492,25 @@
                         <!-- <div class="row justify-content-center">
 	            <div class="col-lg-4 sr-reveal fadeIn" data-sr-reveal-delay=".1s" >
 	                <div class="d-flex counter">
-	                    <h1 class="me-3 text-theme-light counter-value">4000 </h1>
+	                    <h2 class="me-3 text-theme-light counter-value">4000 </h2>
 	                    <h5 class="text-dark mt-1"> + Success in getting happy customer</h5>
 	                </div>
 	            </div>
 	            <div class="col-lg-4 sr-reveal fadeIn" data-sr-reveal-delay=".3s">
 	                <div class="d-flex counter">
-	                    <h1 class="me-4 text-theme-light counter-value">750 </h1>
+	                    <h2 class="me-4 text-theme-light counter-value">750 </h2>
 	                    <h5 class="text-dark mt-1"> + Family investers</h5>
 	                </div>
 	            </div>
 	            <div class="col-lg-4 sr-reveal fadeIn" data-sr-reveal-delay=".5s">
 	                <div class="d-flex counter">
-	                    <h1 class="me-4 text-theme-light counter-value">15</h1>
+	                    <h2 class="me-4 text-theme-light counter-value">15</h2>
 	                    <h5 class="text-dark mt-1">Years of Experience</h5>
 	                </div>
 	            </div>
 	            <div class="col-lg-3 sr-reveal fadeIn" data-sr-reveal-delay=".7s">
 	                <div class="d-flex counter">
-	                    <h1 class="me-3 text-theme-light counter-value">5</h1>
+	                    <h2 class="me-3 text-theme-light counter-value">5</h2>
 	                    <h5 class="text-white mt-1">Stars reviews given by satisfied clients</h5>
 	                </div>
 	            </div>
@@ -518,8 +518,8 @@
                         <div class="row mb-4 sr-section">
                             <div class="col-md-12 text-center sr-child">
                                 <span class="home-label mb-3" style="margin: 0 auto;">WHAT WE DO</span>
-                                <h1 class="mb-4 font-weight-bold" style="color: #0a1f44; font-size: 46px;">Our <span
-                                        style="color: #009899;">Premium</span> Services</h1>
+                                <h2 class="mb-4 font-weight-bold" style="color: #0a1f44; font-size: 46px;">Our <span
+                                        style="color: #009899;">Premium</span> Services</h2>
                                 <div class="d-flex justify-content-center align-items-center mb-4">
                                     <div style="height: 1px; width: 30px; background: rgba(0, 152, 153, 0.3);"></div>
                                     <div
@@ -637,7 +637,7 @@
                         <div class="col-md-6 order-3">
                             <!-- Desktop-only label (displays before heading in the right column) -->
                             <span class="home-label sr-child d-none d-md-inline-block mb-2">WHO WE ARE</span>
-                            <h1 class="mb-4 sr-child">Empowering your <span style="color: #009899;">investments</span> with expert guidance.</h1>
+                            <h2 class="mb-4 sr-child">Empowering your <span style="color: #009899;">investments</span> with expert guidance.</h2>
                             <div class="d-flex justify-content-start align-items-center mb-4 sr-child">
                                 <div style="height: 1px; width: 30px; background: rgba(0, 152, 153, 0.3);"></div>
                                 <div style="width: 4px; height: 4px; border-radius: 50%; background: #009899; margin: 0 8px;"></div>
@@ -1084,7 +1084,7 @@
 		<div class="row">
 			<div class="col-md-12 text-center">
 				<h6 class="addhead font-weight-normal">Get In Touch</h6>
-	        		<h1 class="mb-5">Contact For Any Query</h1>
+	        		<h2 class="mb-5">Contact For Any Query</h2>
 			</div>
 		</div>
 		
@@ -1137,7 +1137,7 @@
                 <div class="container">
                     <div class="text-center mx-auto pb-5 sr-child" style="max-width: 600px;">
                         <span class="home-label mb-3" style="margin: 0 auto;">OUR TESTIMONIAL</span>
-                        <h1 class="mb-4">Our <span style="color: #009899;">Client</span> Saying!</h1>
+                        <h2 class="mb-4">Our <span style="color: #009899;">Client</span> Saying!</h2>
                         <div class="d-flex justify-content-center align-items-center mb-4">
                             <div style="height: 1px; width: 30px; background: rgba(0, 152, 153, 0.3);"></div>
                             <div style="width: 4px; height: 4px; border-radius: 50%; background: #009899; margin: 0 8px;"></div>
@@ -1523,8 +1523,8 @@
                         <div class="row align-items-center">
                             <div class="col-md-6">
                                 <span class="home-label mb-3">BLOG</span>
-                                <h1 class="mb-4">Our Latest <span
-                                        style="color: #009899;">Blog</span></h1>
+                                <h2 class="mb-4">Our Latest <span
+                                        style="color: #009899;">Blog</span></h2>
                                 <div class="d-flex justify-content-start align-items-center mb-4">
                                     <div style="height: 1px; width: 30px; background: rgba(0, 152, 153, 0.3);"></div>
                                     <div style="width: 4px; height: 4px; border-radius: 50%; background: #009899; margin: 0 8px;"></div>
@@ -1571,8 +1571,8 @@
                         <div class="row align-items-center">
                             <div class="col-md-6">
                                 <span class="home-label mb-3">NEWS</span>
-                                <h1 class="mb-4">Our Latest <span
-                                        style="color: #009899;">News</span></h1>
+                                <h2 class="mb-4">Our Latest <span
+                                        style="color: #009899;">News</span></h2>
                                 <div class="d-flex justify-content-start align-items-center mb-4">
                                     <div style="height: 1px; width: 30px; background: rgba(0, 152, 153, 0.3);"></div>
                                     <div style="width: 4px; height: 4px; border-radius: 50%; background: #009899; margin: 0 8px;"></div>
@@ -1617,7 +1617,7 @@
 		<div class="row text-center ">
 			<div class="col-md-12 pb-5">
 				<h5 class="addhead">Partners</h5>
-      			<h1>Our AMC Partners</h1>
+      			<h2>Our AMC Partners</h2>
 			</div>
 			<div class="col-md-12">
 				<div class="slide_vertical_wrap " style="height:400px;">

@@ -172,12 +172,12 @@
           <ul class="nav nav-pills custom-nav-pills sr-reveal" data-sr-reveal-delay="0.1s" id="pills-tab"
             role="tablist">
             <li class="nav-item" role="presentation">
-              <button class="nav-link ${activeTab == 'process' ? 'active' : ''}" id="pills-process-tab" data-bs-toggle="pill" data-bs-target="#pills-process"
-                type="button" role="tab" aria-controls="pills-process" aria-selected="${activeTab == 'process'}">Our Process</button>
+              <button class="nav-link ${activeTab == 'links' ? '' : 'active'}" id="pills-process-tab" data-bs-toggle="pill" data-bs-target="#pills-process"
+                type="button" role="tab" aria-controls="pills-process" aria-selected="${activeTab != 'links'}">Our Process</button>
             </li>
             <li class="nav-item" role="presentation">
-              <button class="nav-link ${activeTab == 'process' ? '' : 'active'}" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home"
-                type="button" role="tab" aria-controls="pills-home" aria-selected="${activeTab != 'process'}">Important Links</button>
+              <button class="nav-link ${activeTab == 'links' ? 'active' : ''}" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home"
+                type="button" role="tab" aria-controls="pills-home" aria-selected="${activeTab == 'links'}">Important Links</button>
             </li>
             <li class="nav-item" role="presentation">
               <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile"
@@ -188,7 +188,7 @@
           <div class="tab-content sr-section" data-sr-reveal-delay="0.2s" id="pills-tabContent">
 
             <!-- LINKS TAB -->
-            <div class="tab-pane fade ${activeTab == 'process' ? '' : 'show active'}" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+            <div class="tab-pane fade ${activeTab == 'links' ? 'show active' : ''}" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
               <div class="row g-4">
                 <div class="col-md-6 col-lg-4 sr-child">
                   <div class="mv-card text-center">
@@ -311,7 +311,7 @@
             </div>
 
             <!-- PROCESS TAB -->
-            <div class="tab-pane fade ${activeTab == 'process' ? 'show active' : ''}" id="pills-process" role="tabpanel" aria-labelledby="pills-process-tab">
+            <div class="tab-pane fade ${activeTab == 'links' ? '' : 'show active'}" id="pills-process" role="tabpanel" aria-labelledby="pills-process-tab">
               <div class="row g-5">
                 <div class="col-12 sr-child">
                   <div class="mv-card">

@@ -58,6 +58,12 @@ import com.mf.utils.Utils;
 public class HomeController 
 {
 	
+	@RequestMapping("/ping")
+	@ResponseBody
+	public String ping() {
+		return "OK";
+	}
+	
 	
 	@RequestMapping({"", "/", "/home"})
 	public String welcome(HttpServletRequest request, HttpServletResponse response) throws Exception 

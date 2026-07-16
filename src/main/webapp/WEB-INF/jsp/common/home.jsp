@@ -286,7 +286,10 @@
 
                 <!-- ── SLIDE 1: Mutual Fund ── -->
                 <div class="hero-slide" id="hSlide0">
-                    <img loading="lazy" src="/images/home/banner/wealth-management.png" alt="Mutual Fund Solutions">
+                    <picture>
+                        <source srcset="/images/home/banner/wealth-management.webp" type="image/webp">
+                        <img fetchpriority="high" src="/images/home/banner/wealth-management.png" alt="Mutual Fund Solutions">
+                    </picture>
                     <div class="hero-veil"></div>
                     <div class="hero-content">
                         <div class="container">
@@ -313,7 +316,10 @@
 
                 <!-- ── SLIDE 2: GIFT City ── -->
                 <div class="hero-slide" id="hSlide1">
-                    <img loading="lazy" src="/images/home/banner/gift-city-hero.png" alt="GIFT City Investments">
+                    <picture>
+                        <source srcset="/images/home/banner/gift-city-hero.webp" type="image/webp">
+                        <img loading="lazy" src="/images/home/banner/gift-city-hero.png" alt="GIFT City Investments">
+                    </picture>
                     <div class="hero-veil"></div>
                     <div class="hero-content">
                         <div class="container">
@@ -336,7 +342,10 @@
 
                 <!-- ── SLIDE 3: Health Insurance ── -->
                 <div class="hero-slide" id="hSlide2">
-                    <img loading="lazy" src="/images/home/banner/health-protection.png" alt="Health Insurance">
+                    <picture>
+                        <source srcset="/images/home/banner/health-protection.webp" type="image/webp">
+                        <img loading="lazy" src="/images/home/banner/health-protection.png" alt="Health Insurance">
+                    </picture>
                     <div class="hero-veil"></div>
                     <div class="hero-content">
                         <div class="container">
@@ -364,7 +373,10 @@
 
                 <!-- ── SLIDE 4: Life Insurance ── -->
                 <div class="hero-slide" id="hSlide3">
-                    <img loading="lazy" src="/images/home/banner/life-security.png" alt="Life Insurance">
+                    <picture>
+                        <source srcset="/images/home/banner/life-security.webp" type="image/webp">
+                        <img loading="lazy" src="/images/home/banner/life-security.png" alt="Life Insurance">
+                    </picture>
                     <div class="hero-veil"></div>
                     <div class="hero-content">
                         <div class="container">

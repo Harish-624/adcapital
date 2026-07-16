@@ -566,7 +566,7 @@
               <div class="about-image-stack sr-child">
                 <div class="about-image-stack-teal"></div>
                 <div class="about-image-stack-light"></div>
-                <img loading="lazy" src="/images/about-us.png" alt="About A D Capital Investment">
+                <picture><source srcset="/images/about-us.webp" type="image/webp"><img loading="lazy" src="/images/about-us.png" alt="About A D Capital Investment"></picture>
               </div>
             </div>
             <div class="col-lg-7">

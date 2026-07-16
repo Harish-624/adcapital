@@ -53,7 +53,7 @@
         <link href="/css/animations.css?v=2.0" rel="stylesheet">
         <link href="/css/home.css" rel="stylesheet">
         
-        <script src="/js/jquery.min.js"></script>
+        <%-- jQuery loaded at bottom of body to avoid render blocking --%>
 
         <%-- Organization Schema (JSON-LD) for SEO & LLM identity --%>
         <script type="application/ld+json">
@@ -193,13 +193,13 @@
         <i class="fa fa-arrow-up text-white"></i>
       </a>
 
-	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-      <script src="/lib/easing/easing.min.js"></script>
-      <script src="/lib/waypoints/waypoints.min.js"></script>
-      <script src="/lib/owlcarousel/owl.carousel.min.js"></script>
-      <script src="/vendors/rangeslider/js/ion.rangeSlider.min.js"/></script> 
-		<script src="/vendors/sweetalert/sweetalert.min.js"></script>
+	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js" defer></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" defer></script>
+      <script src="/lib/easing/easing.min.js" defer></script>
+      <script src="/lib/waypoints/waypoints.min.js" defer></script>
+      <script src="/lib/owlcarousel/owl.carousel.min.js" defer></script>
+      <script src="/vendors/rangeslider/js/ion.rangeSlider.min.js" defer></script>
+		<script src="/vendors/sweetalert/sweetalert.min.js" defer></script>
 		<script>
 $(function () {
     $('.slide_vertical').infiniteslide({

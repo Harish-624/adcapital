@@ -2392,13 +2392,13 @@
     }, 450); // Wait for the transition to complete (450ms)
   };
 
-  // Show after 1.5s, but only once every 24 hours
+  // Show after 1.5s, but only once every 1 hour
   try {
     var lastDismissed = localStorage.getItem(STORAGE_KEY);
-    var oneDay = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
+    var oneHour = 60 * 60 * 1000; // 1 hour in milliseconds
     
-    // If never dismissed, or if it's been more than 24 hours since last dismiss
-    if (!lastDismissed || (Date.now() - parseInt(lastDismissed)) > oneDay) {
+    // If never dismissed, or if it's been more than 1 hour since last dismiss
+    if (!lastDismissed || (Date.now() - parseInt(lastDismissed)) > oneHour) {
       setTimeout(openPM, 1500);
     }
   } catch(e) {

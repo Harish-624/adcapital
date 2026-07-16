@@ -67,7 +67,7 @@
             <div class="row justify-content-between sr-section no-reverse">
                 <div class="col-12 col-md-6 col-lg-4 mb-4 mb-lg-0 sr-child">
                     <a href="/" class="mb-3 d-block">
-                        <img src="/images/logo/footer_logo.png" style="width: 210px;" alt="Logo">
+                        <img src="/images/logo/footer_logo.webp" style="width: 210px;" alt="Logo">
                     </a>
                     <div class="d-flex flex-column gap-3 mt-4 pe-lg-4">
                         <div class="d-flex align-items-start gap-2">
@@ -118,9 +118,9 @@
                     </div>
                     <h5 class="footer-heading mb-3">Social Media</h5>
                     <div class="d-flex gap-2">
-                        <a class="social-icon-wrapper" target="_blank" href="https://api.whatsapp.com/send?phone=8667847016"><img src="/images/logo/whatsappwhite.png" width="20px"></a>
-                        <a class="social-icon-wrapper" target="_blank" href="https://youtube.com/shorts/rWfT_5NitG4?feature=shared"><img src="/images/logo/youtube-original.png" width="20px"></a>
-                        <a class="social-icon-wrapper" target="_blank" href="https://www.instagram.com/aravind__elangovan?igsh=MWRqcTQxamFtYjg4eQ%3D%3D&utm_source=qr"><img src="/images/logo/instagram-original.png" width="20px"></a>
+                        <a class="social-icon-wrapper" target="_blank" href="https://api.whatsapp.com/send?phone=8667847016"><img src="/images/logo/whatsappwhite.webp" width="20px"></a>
+                        <a class="social-icon-wrapper" target="_blank" href="https://youtube.com/shorts/rWfT_5NitG4?feature=shared"><img src="/images/logo/youtube-original.webp" width="20px"></a>
+                        <a class="social-icon-wrapper" target="_blank" href="https://www.instagram.com/aravind__elangovan?igsh=MWRqcTQxamFtYjg4eQ%3D%3D&utm_source=qr"><img src="/images/logo/instagram-original.webp" width="20px"></a>
                     </div>
                 </div>
             </div>
@@ -130,7 +130,7 @@
     <div class="footer-bottom py-4">
         <div class="container d-flex flex-column align-items-center text-center">
             <div class="d-flex align-items-center justify-content-center gap-3 mb-3">
-                <img src="/images/amfi_footer.jpg" alt="AMFI Logo" style="width: 50px;">
+                <img src="/images/amfi_footer.webp" alt="AMFI Logo" style="width: 50px;">
                 <div class="text-start">
                     <span style="color: #9ca3af;">AMFI (Association of Mutual Funds in India) Certified Mutual Fund Distributor. ARN No. 314520.</span><br>
                     <span style="color: #9ca3af;">Initial Registration on - 25.Nov.2024 | Valid till - 24.Nov.2027</span>
@@ -138,9 +138,9 @@
             </div>
             <p class="mb-2" style="color: #9ca3af;">Mutual Fund investments are subject to market risks, read all scheme related documents carefully before investing.</p>
             <div class="d-flex align-items-center justify-content-center gap-4 mt-3 mb-2">
-                <img src="/images/yes.png" alt="YES Logo" style="height: 55px; object-fit: contain; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));">
-                <img src="/images/rotary.png" alt="Rotary Logo" style="height: 55px; object-fit: contain; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));">
-                <img src="/images/proud-bni.png" alt="BNI Logo" style="height: 55px; object-fit: contain; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));">
+                <img src="/images/yes.webp" alt="YES Logo" style="height: 55px; object-fit: contain; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));">
+                <img src="/images/rotary.webp" alt="Rotary Logo" style="height: 55px; object-fit: contain; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));">
+                <img src="/images/proud-bni.webp" alt="BNI Logo" style="height: 55px; object-fit: contain; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));">
             </div>
             
             <div class="footer-bottom-divider">

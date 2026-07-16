@@ -113,7 +113,7 @@
         <div class="about-image-stack sr-child">
           <div class="about-image-stack-teal"></div>
           <div class="about-image-stack-light"></div>
-          <img src="/images/services/mutual_fund.png" class="img-fluid" alt="Mutual Funds">
+          <img src="/images/services/mutual_fund.webp" class="img-fluid" alt="Mutual Funds">
         </div>
       </div>
       <div class="col-lg-7">
@@ -190,7 +190,7 @@
           <h2 style="font-size: 2.2rem; font-weight: 700; color: #1a1f2e;">Taxation of Mutual Funds</h2>
         </div>
         <div class="sr-child text-center mt-4">
-          <img src="/images/services/Taxation_Mutual_fund.jpeg" class="img-fluid rounded-4 shadow-lg" alt="Taxation of Mutual Funds" style="width: 100%; border: 1px solid rgba(0,0,0,0.05);">
+          <img src="/images/services/Taxation_Mutual_fund.webp" class="img-fluid rounded-4 shadow-lg" alt="Taxation of Mutual Funds" style="width: 100%; border: 1px solid rgba(0,0,0,0.05);">
         </div>
       </div>
     </div>

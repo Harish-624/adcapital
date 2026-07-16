@@ -400,13 +400,13 @@ textarea.premium-input {
           
           <div class="social-links">
             <a href="https://api.whatsapp.com/send?phone=8667847016" target="_blank" class="social-link sr-child sr-from-top" title="WhatsApp">
-              <img src="/images/logo/whatsappnew.png" alt="WhatsApp">
+              <img src="/images/logo/whatsappnew.webp" alt="WhatsApp">
             </a>
             <a href="https://www.youtube.com/@adcapitalinvestment" target="_blank" class="social-link sr-child sr-from-top" title="YouTube">
-              <img src="/images/logo/youtube-original.png" alt="YouTube">
+              <img src="/images/logo/youtube-original.webp" alt="YouTube">
             </a>
             <a href="https://www.instagram.com/aravind__elangovan" target="_blank" class="social-link sr-child sr-from-top" title="Instagram">
-              <img src="/images/logo/instagram-original.png" alt="Instagram">
+              <img src="/images/logo/instagram-original.webp" alt="Instagram">
             </a>
           </div>
         </div>

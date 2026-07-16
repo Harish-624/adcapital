@@ -4,8 +4,8 @@
             <div class="container">
                 <!-- Logo -->
                 <a class="navbar-brand" href="index.html">
-                    <img class="logo-dark" src="/images/logo/logo.png" title="" alt="">
-                    <img class="logo-light" src="/images/logo/logo.png" title="" alt="">
+                    <img class="logo-dark" src="/images/logo/logo.webp" title="" alt="">
+                    <img class="logo-light" src="/images/logo/logo.webp" title="" alt="">
                 </a>
                 <!-- Logo -->
                 <!-- Mobile Toggle -->

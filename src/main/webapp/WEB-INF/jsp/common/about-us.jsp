@@ -566,7 +566,7 @@
               <div class="about-image-stack sr-child">
                 <div class="about-image-stack-teal"></div>
                 <div class="about-image-stack-light"></div>
-                <picture><source srcset="/images/about-us.webp" type="image/webp"><img loading="lazy" src="/images/about-us.png" alt="About A D Capital Investment"></picture>
+                <picture><source srcset="/images/about-us.webp" type="image/webp"><img loading="lazy" src="/images/about-us.webp" alt="About A D Capital Investment"></picture>
               </div>
             </div>
             <div class="col-lg-7">
@@ -713,7 +713,7 @@
                   <div class="team-photo-col">
                     <div class="team-photo-wrapper">
                       <div class="team-photo-frame">
-                        <img src="/images/testmonial/Aravind.png" alt="Aravind Elangovan" loading="lazy">
+                        <img src="/images/testmonial/Aravind.webp" alt="Aravind Elangovan" loading="lazy">
                       </div>
                     </div>
                     <!-- badges -->
@@ -804,7 +804,7 @@
                   <div class="team-photo-col">
                     <div class="team-photo-wrapper">
                       <div class="team-photo-frame">
-                        <img src="/images/testmonial/Akilan.jpg" alt="Ahilan" loading="lazy">
+                        <img src="/images/testmonial/Akilan.webp" alt="Ahilan" loading="lazy">
                       </div>
                     </div>
                     <div class="team-badge-row">
@@ -845,7 +845,7 @@
                   <div class="team-photo-col">
                     <div class="team-photo-wrapper">
                       <div class="team-photo-frame">
-                        <img src="/images/testmonial/Vasanth.jpg" alt="Vasanth" loading="lazy">
+                        <img src="/images/testmonial/Vasanth.webp" alt="Vasanth" loading="lazy">
                       </div>
                     </div>
                     <div class="team-badge-row">
@@ -889,7 +889,7 @@
                   <div class="team-photo-col">
                     <div class="team-photo-wrapper">
                       <div class="team-photo-frame">
-                        <img src="/images/testmonial/Akilandeswari.jpg" alt="Akilandeswari" loading="lazy">
+                        <img src="/images/testmonial/Akilandeswari.webp" alt="Akilandeswari" loading="lazy">
                       </div>
                     </div>
                     <div class="team-badge-row">

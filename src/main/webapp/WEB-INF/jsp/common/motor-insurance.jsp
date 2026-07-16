@@ -125,7 +125,7 @@
         <div class="about-image-stack sr-child">
           <div class="about-image-stack-teal"></div>
           <div class="about-image-stack-light"></div>
-          <img src="/images/services/Vehicle_Insurance.png" class="img-fluid" alt="Vehicle Insurance">
+          <img src="/images/services/Vehicle_Insurance.webp" class="img-fluid" alt="Vehicle Insurance">
         </div>
       </div>
       <div class="col-lg-7">
@@ -220,38 +220,38 @@
     </div>
     <div class="logos sr-child">
       <div class="logo_items">
-        <img src="/images/generallogo/ergo.png">
-        <img src="/images/generallogo/Future_Generali.jpg">
-        <img src="/images/generallogo/icicilamboard.png">
-        <img src="/images/generallogo/IFFCO.png">
-        <img src="/images/generallogo/liberty-general.png">
-        <img src="/images/generallogo/Magmalogo.png">
-        <img src="/images/generallogo/national-insurance.png">
-        <img src="/images/generallogo/Navi_New_Logo.png">
-        <img src="/images/generallogo/reliance-general-insurance.png">
-        <img src="/images/generallogo/royalsundram.png">
-        <img src="/images/generallogo/sbigeneral.png">
-        <img src="/images/generallogo/shriram-general-insurance.png">
-        <img src="/images/generallogo/tata-aig.png">
-        <img src="/images/generallogo/universal sompo general insurance.jpg">
-        <img src="/images/generallogo/Zurich-Kotak-Logo.png">
+        <img src="/images/generallogo/ergo.webp">
+        <img src="/images/generallogo/Future_Generali.webp">
+        <img src="/images/generallogo/icicilamboard.webp">
+        <img src="/images/generallogo/IFFCO.webp">
+        <img src="/images/generallogo/liberty-general.webp">
+        <img src="/images/generallogo/Magmalogo.webp">
+        <img src="/images/generallogo/national-insurance.webp">
+        <img src="/images/generallogo/Navi_New_Logo.webp">
+        <img src="/images/generallogo/reliance-general-insurance.webp">
+        <img src="/images/generallogo/royalsundram.webp">
+        <img src="/images/generallogo/sbigeneral.webp">
+        <img src="/images/generallogo/shriram-general-insurance.webp">
+        <img src="/images/generallogo/tata-aig.webp">
+        <img src="/images/generallogo/universal sompo general insurance.webp">
+        <img src="/images/generallogo/Zurich-Kotak-Logo.webp">
       </div>
       <div class="logo_items">
-        <img src="/images/generallogo/ergo.png">
-        <img src="/images/generallogo/Future_Generali.jpg">
-        <img src="/images/generallogo/icicilamboard.png">
-        <img src="/images/generallogo/IFFCO.png">
-        <img src="/images/generallogo/liberty-general.png">
-        <img src="/images/generallogo/Magmalogo.png">
-        <img src="/images/generallogo/national-insurance.png">
-        <img src="/images/generallogo/Navi_New_Logo.png">
-        <img src="/images/generallogo/reliance-general-insurance.png">
-        <img src="/images/generallogo/royalsundram.png">
-        <img src="/images/generallogo/sbigeneral.png">
-        <img src="/images/generallogo/shriram-general-insurance.png">
-        <img src="/images/generallogo/tata-aig.png">
-        <img src="/images/generallogo/universal sompo general insurance.jpg">
-        <img src="/images/generallogo/Zurich-Kotak-Logo.png">
+        <img src="/images/generallogo/ergo.webp">
+        <img src="/images/generallogo/Future_Generali.webp">
+        <img src="/images/generallogo/icicilamboard.webp">
+        <img src="/images/generallogo/IFFCO.webp">
+        <img src="/images/generallogo/liberty-general.webp">
+        <img src="/images/generallogo/Magmalogo.webp">
+        <img src="/images/generallogo/national-insurance.webp">
+        <img src="/images/generallogo/Navi_New_Logo.webp">
+        <img src="/images/generallogo/reliance-general-insurance.webp">
+        <img src="/images/generallogo/royalsundram.webp">
+        <img src="/images/generallogo/sbigeneral.webp">
+        <img src="/images/generallogo/shriram-general-insurance.webp">
+        <img src="/images/generallogo/tata-aig.webp">
+        <img src="/images/generallogo/universal sompo general insurance.webp">
+        <img src="/images/generallogo/Zurich-Kotak-Logo.webp">
       </div>
     </div>
   </div>

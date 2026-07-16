@@ -1076,12 +1076,12 @@
                                 <div class="d-flex flex-wrap gap-3 justify-content-center justify-content-lg-start sr-child">
                                     <a href="https://play.google.com/store/apps/details?id=in.mymfbox" target="_blank"
                                         class="d-inline-block app-store-link">
-                                        <img src="/images/playstore.png" class="app-store-badge shadow-sm rounded-3"
+                                        <img src="/images/playstore.webp" class="app-store-badge shadow-sm rounded-3"
                                             alt="Get it on Google Play" style="height: 54px; width: auto;" loading="lazy">
                                     </a>
                                     <a href="https://apps.apple.com/sg/app/themfbox/id1594370380?platform=iphone"
                                         target="_blank" class="d-inline-block app-store-link">
-                                        <img src="/images/appstore.png" class="app-store-badge shadow-sm rounded-3"
+                                        <img src="/images/appstore.webp" class="app-store-badge shadow-sm rounded-3"
                                             alt="Download on the App Store" style="height: 54px; width: auto;" loading="lazy">
                                     </a>
                                 </div>
@@ -1636,7 +1636,7 @@
 					<div class="infiniteslide_wrap">
 						<div class="infiniteslide_wrap" style="overflow: hidden;height: 300px;"><ul class="slide_vertical mb-10" data-style="infiniteslide16775885016091e8c" style="display: flex; flex-flow: column nowrap; align-items: center; animation: 36.0683s linear 0s infinite normal none running infiniteslide16775885016091e8c;">
 							<picture style="flex: 0 0 auto; display: block;">
-								<img src="/images/client_logos.png" class="img-fluid" alt="a cute kitten">
+								<img src="/images/client_logos.webp" class="img-fluid" alt="a cute kitten">
 							</picture>
 							</ul>
 						</div>
@@ -1657,136 +1657,136 @@
                         </div>
                         <div class="owl-carousel owl-theme amc-carousel">
                             <div class="item client-logo-slide sr-child"><img
-                                    src="/images/home/amc-company/360one.png" height="90" width="200" alt=""></div>
+                                    src="/images/home/amc-company/360one.webp" height="90" width="200" alt=""></div>
                             <div class="item client-logo-slide sr-child"><img
-                                    src="/images/home/amc-company/aditya.png" height="90" width="200" alt=""></div>
+                                    src="/images/home/amc-company/aditya.webp" height="90" width="200" alt=""></div>
                             <div class="item client-logo-slide sr-child"><img
-                                    src="/images/home/amc-company/axis.png" height="90" width="200" alt=""></div>
+                                    src="/images/home/amc-company/axis.webp" height="90" width="200" alt=""></div>
                             <div class="item client-logo-slide sr-child"><img
-                                    src="/images/home/amc-company/bajaj.png" height="90" width="200" alt=""></div>
+                                    src="/images/home/amc-company/bajaj.webp" height="90" width="200" alt=""></div>
                             <div class="item client-logo-slide sr-child"><img
-                                    src="/images/home/amc-company/bandhan.png" height="90" width="200" alt=""></div>
+                                    src="/images/home/amc-company/bandhan.webp" height="90" width="200" alt=""></div>
                             <div class="item client-logo-slide sr-child"><img
-                                    src="/images/home/amc-company/bank-of-india.png" height="90" width="200" alt="">
+                                    src="/images/home/amc-company/bank-of-india.webp" height="90" width="200" alt="">
                             </div>
                             <div class="item client-logo-slide sr-child"><img
-                                    src="/images/home/amc-company/bnp-paribas.png" height="90" width="200" alt="" />
+                                    src="/images/home/amc-company/bnp-paribas.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/canara.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/canara.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/dsp.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/dsp.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/edelweiss.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/edelweiss.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/franklin.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/franklin.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/groww.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/groww.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/hdfc.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/hdfc.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/Helios.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/Helios.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/hsbc.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/hsbc.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/icici.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/icici.webp" height="90" width="200" alt="" />
                             </div>
                             <!-- <div class="item client-logo-slide sr-child">
-								<img src="/images/home/amc-company/idbi.png" height="90" width="200" alt="" />
+								<img src="/images/home/amc-company/idbi.webp" height="90" width="200" alt="" />
 							</div> -->
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/invesco.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/invesco.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/iti.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/iti.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/jmfinance.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/jmfinance.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/kotak.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/kotak.webp" height="90" width="200" alt="" />
                             </div>
                             <!-- <div class="item client-logo-slide sr-child">
-								<img src="/images/home/amc-company/lnt.png" height="90" width="200" alt="" />
+								<img src="/images/home/amc-company/lnt.webp" height="90" width="200" alt="" />
 							</div> -->
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/lic.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/lic.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/mahindra.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/mahindra.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/mirae.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/mirae.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/motilal-oswal.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/motilal-oswal.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/navi.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/navi.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/nippon.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/nippon.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/nj-mf.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/nj-mf.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/oldbridge.jpg" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/oldbridge.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/pgim.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/pgim.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/ppfas.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/ppfas.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/quant.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/quant.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/quantum.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/quantum.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/samco.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/samco.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/sbi.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/sbi.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/sriram.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/sriram.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/sundaram.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/sundaram.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/tata.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/tata.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/taurus.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/taurus.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/trust.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/trust.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/union.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/union.webp" height="90" width="200" alt="" />
                             </div>
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/uti.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/uti.webp" height="90" width="200" alt="" />
                             </div>
 
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/whiteoak.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/whiteoak.webp" height="90" width="200" alt="" />
                             </div>
 
                             <div class="item client-logo-slide sr-child">
-                                <img src="/images/home/amc-company/Zerodha.png" height="90" width="200" alt="" />
+                                <img src="/images/home/amc-company/Zerodha.webp" height="90" width="200" alt="" />
                             </div>
                             <!-- Add more item client-logo-slides as needed -->
                         </div>
@@ -1799,115 +1799,115 @@
                             <div class="owl-carousel owl-theme insurance-carousel">
 
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/aditya-life.jpg" height="90" width="200">
+                                    <img src="/images/healthlogo/aditya-life.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/Care_health_insurance_logo.png" height="90"
+                                    <img src="/images/healthlogo/Care_health_insurance_logo.webp" height="90"
                                         width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/cigna-health-insurance.png" height="90" width="200">
+                                    <img src="/images/healthlogo/cigna-health-insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/galaxy.png" height="90" width="200">
+                                    <img src="/images/healthlogo/galaxy.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/narayana.jpg" height="90" width="200">
+                                    <img src="/images/healthlogo/narayana.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/niva.png" height="90" width="200">
+                                    <img src="/images/healthlogo/niva.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/star-health-insurance.png" height="90" width="200">
+                                    <img src="/images/healthlogo/star-health-insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/aditya-life.jpg" height="90" width="200">
+                                    <img src="/images/healthlogo/aditya-life.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/Care_health_insurance_logo.png" height="90"
+                                    <img src="/images/healthlogo/Care_health_insurance_logo.webp" height="90"
                                         width="200">
                                 </div>
                                 <!-- <div class="item client-logo-slide sr-child">
-								<img src="/images/home/amc-company/idbi.png" height="90" width="200" alt="" />
+								<img src="/images/home/amc-company/idbi.webp" height="90" width="200" alt="" />
 							</div> -->
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/cigna-health-insurance.png" height="90" width="200">
+                                    <img src="/images/healthlogo/cigna-health-insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/galaxy.png" height="90" width="200">
+                                    <img src="/images/healthlogo/galaxy.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/narayana.jpg" height="90" width="200">
+                                    <img src="/images/healthlogo/narayana.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/niva.png" height="90" width="200">
+                                    <img src="/images/healthlogo/niva.webp" height="90" width="200">
                                 </div>
                                 <!-- <div class="item client-logo-slide sr-child">
-								<img src="/images/home/amc-company/lnt.png" height="90" width="200" alt="" />
+								<img src="/images/home/amc-company/lnt.webp" height="90" width="200" alt="" />
 							</div> -->
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/star-health-insurance.png" height="90" width="200">
+                                    <img src="/images/healthlogo/star-health-insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/acko.jpg" height="90" width="200">
+                                    <img src="/images/lifelogo/acko.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/aditya.png" height="90" width="200">
+                                    <img src="/images/lifelogo/aditya.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/Aviva-Logo.wine.png" height="90" width="200">
+                                    <img src="/images/lifelogo/Aviva-Logo.wine.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/bajaj-allianz.png" height="90" width="200">
+                                    <img src="/images/lifelogo/bajaj-allianz.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/bandhan.png" height="90" width="200">
+                                    <img src="/images/lifelogo/bandhan.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.jpg" height="90" width="200">
+                                    <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/CreditAccess.png" height="90" width="200">
+                                    <img src="/images/lifelogo/CreditAccess.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/digit-insurance.png" height="90" width="200">
+                                    <img src="/images/lifelogo/digit-insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/Future_Generali.jpg" height="90" width="200">
+                                    <img src="/images/lifelogo/Future_Generali.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/hdfc.png" height="90" width="200">
+                                    <img src="/images/lifelogo/hdfc.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/icici.png" height="90" width="200">
+                                    <img src="/images/lifelogo/icici.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/india.png" height="90" width="200">
+                                    <img src="/images/lifelogo/india.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/LIC.png" height="90" width="200">
+                                    <img src="/images/lifelogo/LIC.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/max.png" height="90" width="200">
+                                    <img src="/images/lifelogo/max.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/pnblife.png" height="90" width="200">
+                                    <img src="/images/lifelogo/pnblife.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/pramerica.png" height="90" width="200">
+                                    <img src="/images/lifelogo/pramerica.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/sbi-life-insurance.png" height="90" width="200">
+                                    <img src="/images/lifelogo/sbi-life-insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/shara.png" height="90" width="200">
-                                    <img src="/images/lifelogo/shriramlife.png" height="90" width="200">
+                                    <img src="/images/lifelogo/shara.webp" height="90" width="200">
+                                    <img src="/images/lifelogo/shriramlife.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/star-union.jpg" height="90" width="200">
+                                    <img src="/images/lifelogo/star-union.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/tataaig.png" height="90" width="200">
+                                    <img src="/images/lifelogo/tataaig.webp" height="90" width="200">
                                 </div>
 
                             </div>

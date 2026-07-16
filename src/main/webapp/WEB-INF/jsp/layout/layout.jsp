@@ -42,15 +42,20 @@
         <!-- Customized Bootstrap Stylesheet -->
         <link href="/css/bootstrap.min.css" rel="stylesheet">
         
-        <link rel="stylesheet" href="/vendors/rangeslider/css/ion.rangeSlider.css"/>
-	  	<link rel="stylesheet" href="/vendors/rangeslider/css/ion.rangeSlider.skinModern.css"/> 
-	  	<link rel="stylesheet" href="/vendors/sweetalert/sweetalert.css">
-	  	<link  href="/vendors/datatables/jquery.dataTables.min.css" rel="stylesheet" type="text/css"/>
-	  	<link rel="stylesheet" href="/vendors/bootstrap-slider/slider.css">
-		<!-- <link rel="stylesheet" href="/css/bootstrap-datepicker.standalone.css"/> -->
-		
-		<link rel="stylesheet" href="/css/bootstrap-datepicker.min.css">
-		
+        <!-- Vendor CSS — non-blocking (not needed for first paint) -->
+        <link rel="preload" href="/vendors/rangeslider/css/ion.rangeSlider.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/vendors/rangeslider/css/ion.rangeSlider.css"/></noscript>
+        <link rel="preload" href="/vendors/rangeslider/css/ion.rangeSlider.skinModern.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/vendors/rangeslider/css/ion.rangeSlider.skinModern.css"/></noscript>
+        <link rel="preload" href="/vendors/sweetalert/sweetalert.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/vendors/sweetalert/sweetalert.css"></noscript>
+        <link rel="preload" href="/vendors/datatables/jquery.dataTables.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link href="/vendors/datatables/jquery.dataTables.min.css" rel="stylesheet" type="text/css"/></noscript>
+        <link rel="preload" href="/vendors/bootstrap-slider/slider.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/vendors/bootstrap-slider/slider.css"></noscript>
+        <link rel="preload" href="/css/bootstrap-datepicker.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/css/bootstrap-datepicker.min.css"></noscript>
+        
         <!-- Template Stylesheet (v2.0 — cache busted) -->
         <link href="/css/style.css?v=2.0" rel="stylesheet">
         <link href="/css/custom.css?v=2.0" rel="stylesheet">

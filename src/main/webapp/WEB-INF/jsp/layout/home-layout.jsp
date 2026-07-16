@@ -33,18 +33,25 @@
         <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
         <noscript><link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet"></noscript>
         
-        <link rel="stylesheet" href="/vendors/rangeslider/css/ion.rangeSlider.css"/>
-	  	<link rel="stylesheet" href="/vendors/rangeslider/css/ion.rangeSlider.skinModern.css"/> 
-	  	<link rel="stylesheet" href="/vendors/sweetalert/sweetalert.css">
+        <!-- Hero LCP image preload — tells browser to fetch this FIRST -->
+        <link rel="preload" as="image" href="/images/home/banner/wealth-management.webp" type="image/webp" fetchpriority="high">
 
-        <!-- Libraries Stylesheet -->
-        <link href="/lib/animate/animate.min.css" rel="stylesheet">
-        <link href="/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+        <!-- Vendor CSS — non-blocking (rangeslider, sweetalert, owl carousel, animate not needed for first paint) -->
+        <link rel="preload" href="/vendors/rangeslider/css/ion.rangeSlider.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/vendors/rangeslider/css/ion.rangeSlider.css"/></noscript>
+        <link rel="preload" href="/vendors/rangeslider/css/ion.rangeSlider.skinModern.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/vendors/rangeslider/css/ion.rangeSlider.skinModern.css"/></noscript>
+        <link rel="preload" href="/vendors/sweetalert/sweetalert.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="/vendors/sweetalert/sweetalert.css"></noscript>
 
-        <!-- Customized Bootstrap Stylesheet -->
+        <!-- Libraries — non-blocking (animations + carousel load after first paint) -->
+        <link rel="preload" href="/lib/animate/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link href="/lib/animate/animate.min.css" rel="stylesheet"></noscript>
+        <link rel="preload" href="/lib/owlcarousel/assets/owl.carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link href="/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet"></noscript>
+
+        <!-- Core Stylesheets — blocking (needed for above-fold layout) -->
         <link href="/css/bootstrap.min.css" rel="stylesheet">
-
-        <!-- Template Stylesheet -->
         <link href="/css/style.css" rel="stylesheet">
         <link href="/css/custom.css" rel="stylesheet">
         <link href="/css/animations.css?v=2.0" rel="stylesheet">

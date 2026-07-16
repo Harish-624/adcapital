@@ -2270,7 +2270,10 @@
         <div class="pm-eyebrow">OUR PROCESS</div>
         <h2 class="pm-title">A Smarter Way<br>to <span>Invest</span></h2>
         <p class="pm-subtitle">We follow a disciplined and transparent process to help you build wealth and achieve your financial goals.</p>
-        <img src="/images/home/process_illustration.png" class="pm-illustration" alt="Investment Process Illustration">
+        <picture class="pm-illustration">
+          <source srcset="/images/home/process_illustration.webp" type="image/webp">
+          <img src="/images/home/process_illustration.png" fetchpriority="high" alt="Investment Process Illustration" style="width:100%; height:auto;">
+        </picture>
       </div>
 
       <!-- RIGHT: Steps -->

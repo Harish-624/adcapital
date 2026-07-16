@@ -578,7 +578,7 @@
         <div class="navbar-wrapper w-100" style="position: absolute; top: 42px; left: 0; z-index: 1020;">
           <nav class="navbar navbar-expand-lg navbar-light floating-navbar">
             <a href="/" class="navbar-brand p-0">
-              <img src="/images/logo/logo1.webp" style="width: 140px;">
+              <img src="/images/logo/logo1.png" style="width: 140px;">
             </a>
             <div class="d-flex align-items-center d-xl-none gap-3 pe-2">
                 <a href="https://adcapital.themfbox.com/" style="color: #0d9997; font-size: 24px; text-decoration: none; display: flex; align-items: center;" title="User Account">

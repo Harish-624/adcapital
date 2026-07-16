@@ -168,11 +168,11 @@
 }
 
 .toggle {
-    background: url(../img/toggle-closed.webp) no-repeat scroll 50% 50% rgba(0,0,0,0);
+    background: url(../img/toggle-closed.png) no-repeat scroll 50% 50% rgba(0,0,0,0);
     cursor: pointer;
 }
 .toggle-open {
-    background: url(../img/toggle-open.webp) no-repeat scroll 50% 50% rgba(0,0,0,0);
+    background: url(../img/toggle-open.png) no-repeat scroll 50% 50% rgba(0,0,0,0);
     cursor: pointer;
 }
 .member .member__info .member__job {

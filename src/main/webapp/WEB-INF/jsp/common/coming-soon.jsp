@@ -16,7 +16,7 @@
 					<div class="card-body p-5">
 						<div class="row">
 							<div class="col-md-12">
-								<img src="/images/logo/logo.webp" style="max-width:70%; margin-bottom:20px; margin-top: 40px">
+								<img src="/images/logo/logo.png" style="max-width:70%; margin-bottom:20px; margin-top: 40px">
 								<h1 style="font-size:60px; color:#2e2762;">Coming Soon</h1>
 								<h2 style="font-weight:400; margin-bottom:50px;">Our new website is under construction</h2>
 								<h4 style="font-weight:400; letter-spacing: 8px; margin-bottom:50px;">Please Stay Tuned</h4>

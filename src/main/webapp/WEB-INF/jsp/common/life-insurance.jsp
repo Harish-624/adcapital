@@ -141,7 +141,7 @@
         <div class="about-image-stack sr-child">
           <div class="about-image-stack-teal"></div>
           <div class="about-image-stack-light"></div>
-          <img src="/images/services/Life_Insurance.webp" class="img-fluid" alt="Life Insurance">
+          <img src="/images/services/Life_Insurance.png" class="img-fluid" alt="Life Insurance">
         </div>
       </div>
       <div class="col-lg-7">
@@ -223,50 +223,50 @@
     </div>
     <div class="logos sr-child">
       <div class="logo_items">
-        <img src="/images/lifelogo/acko.webp">
-        <img src="/images/lifelogo/aditya.webp">
-        <img src="/images/lifelogo/Aviva-Logo.wine.webp">
-        <img src="/images/lifelogo/bajaj-allianz.webp">
-        <img src="/images/lifelogo/bandhan.webp">
-        <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.webp">
-        <img src="/images/lifelogo/CreditAccess.webp">
-        <img src="/images/lifelogo/digit-insurance.webp">
-        <img src="/images/lifelogo/Future_Generali.webp">
-        <img src="/images/lifelogo/hdfc.webp">
-        <img src="/images/lifelogo/icici.webp">
-        <img src="/images/lifelogo/india.webp">
-        <img src="/images/lifelogo/LIC.webp">
-        <img src="/images/lifelogo/max.webp">
-        <img src="/images/lifelogo/pnblife.webp">
-        <img src="/images/lifelogo/pramerica.webp">
-        <img src="/images/lifelogo/sbi-life-insurance.webp">
-        <img src="/images/lifelogo/shara.webp">
-        <img src="/images/lifelogo/shriramlife.webp">
-        <img src="/images/lifelogo/star-union.webp">
-        <img src="/images/lifelogo/tataaig.webp">
+        <img src="/images/lifelogo/acko.jpg">
+        <img src="/images/lifelogo/aditya.png">
+        <img src="/images/lifelogo/Aviva-Logo.wine.png">
+        <img src="/images/lifelogo/bajaj-allianz.png">
+        <img src="/images/lifelogo/bandhan.png">
+        <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.jpg">
+        <img src="/images/lifelogo/CreditAccess.png">
+        <img src="/images/lifelogo/digit-insurance.png">
+        <img src="/images/lifelogo/Future_Generali.jpg">
+        <img src="/images/lifelogo/hdfc.png">
+        <img src="/images/lifelogo/icici.png">
+        <img src="/images/lifelogo/india.png">
+        <img src="/images/lifelogo/LIC.png">
+        <img src="/images/lifelogo/max.png">
+        <img src="/images/lifelogo/pnblife.png">
+        <img src="/images/lifelogo/pramerica.png">
+        <img src="/images/lifelogo/sbi-life-insurance.png">
+        <img src="/images/lifelogo/shara.png">
+        <img src="/images/lifelogo/shriramlife.png">
+        <img src="/images/lifelogo/star-union.jpg">
+        <img src="/images/lifelogo/tataaig.png">
       </div>
       <div class="logo_items">
-        <img src="/images/lifelogo/acko.webp">
-        <img src="/images/lifelogo/aditya.webp">
-        <img src="/images/lifelogo/Aviva-Logo.wine.webp">
-        <img src="/images/lifelogo/bajaj-allianz.webp">
-        <img src="/images/lifelogo/bandhan.webp">
-        <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.webp">
-        <img src="/images/lifelogo/CreditAccess.webp">
-        <img src="/images/lifelogo/digit-insurance.webp">
-        <img src="/images/lifelogo/Future_Generali.webp">
-        <img src="/images/lifelogo/hdfc.webp">
-        <img src="/images/lifelogo/icici.webp">
-        <img src="/images/lifelogo/india.webp">
-        <img src="/images/lifelogo/LIC.webp">
-        <img src="/images/lifelogo/max.webp">
-        <img src="/images/lifelogo/pnblife.webp">
-        <img src="/images/lifelogo/pramerica.webp">
-        <img src="/images/lifelogo/sbi-life-insurance.webp">
-        <img src="/images/lifelogo/shara.webp">
-        <img src="/images/lifelogo/shriramlife.webp">
-        <img src="/images/lifelogo/star-union.webp">
-        <img src="/images/lifelogo/tataaig.webp">
+        <img src="/images/lifelogo/acko.jpg">
+        <img src="/images/lifelogo/aditya.png">
+        <img src="/images/lifelogo/Aviva-Logo.wine.png">
+        <img src="/images/lifelogo/bajaj-allianz.png">
+        <img src="/images/lifelogo/bandhan.png">
+        <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.jpg">
+        <img src="/images/lifelogo/CreditAccess.png">
+        <img src="/images/lifelogo/digit-insurance.png">
+        <img src="/images/lifelogo/Future_Generali.jpg">
+        <img src="/images/lifelogo/hdfc.png">
+        <img src="/images/lifelogo/icici.png">
+        <img src="/images/lifelogo/india.png">
+        <img src="/images/lifelogo/LIC.png">
+        <img src="/images/lifelogo/max.png">
+        <img src="/images/lifelogo/pnblife.png">
+        <img src="/images/lifelogo/pramerica.png">
+        <img src="/images/lifelogo/sbi-life-insurance.png">
+        <img src="/images/lifelogo/shara.png">
+        <img src="/images/lifelogo/shriramlife.png">
+        <img src="/images/lifelogo/star-union.jpg">
+        <img src="/images/lifelogo/tataaig.png">
       </div>
     </div>
   </div>

@@ -149,7 +149,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/anirudh_2.webp" alt="Anirudh Dar">
+                <img src="/img/team/anirudh_2.jpg" alt="Anirudh Dar">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -174,7 +174,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/rohini.webp" alt="Rohini Wadhwa">
+                <img src="/img/team/rohini.jpg" alt="Rohini Wadhwa">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -196,7 +196,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/aarti.webp" alt="Arti Sahgal">
+                <img src="/img/team/aarti.jpg" alt="Arti Sahgal">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -218,7 +218,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/savita.webp" alt="Savita Sharma">
+                <img src="/img/team/savita.jpg" alt="Savita Sharma">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -240,7 +240,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/amit.webp" alt="Amit Gupta">
+                <img src="/img/team/amit.jpg" alt="Amit Gupta">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -262,7 +262,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/vishnu.webp" alt="Vishnu Kumar">
+                <img src="/img/team/vishnu.jpg" alt="Vishnu Kumar">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -284,7 +284,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/sherry.webp" alt="Sherry Jindal">
+                <img src="/img/team/sherry.jpg" alt="Sherry Jindal">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -306,7 +306,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/smriti.webp" alt="Smriti Mehra">
+                <img src="/img/team/smriti.jpg" alt="Smriti Mehra">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -328,7 +328,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/tamanna.webp" alt="Tamanna Saini">
+                <img src="/img/team/tamanna.jpg" alt="Tamanna Saini">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">

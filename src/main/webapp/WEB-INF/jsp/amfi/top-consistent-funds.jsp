@@ -5,13 +5,13 @@
 
 <style>
 table.dataTable thead .sorting_desc {
-    background-image: url('/img/down.webp') !important;
+    background-image: url('/img/down.png') !important;
 }
 table.dataTable thead .sorting_asc {
-    background-image: url('/img/up.webp') !important;
+    background-image: url('/img/up.png') !important;
 }
 table.dataTable thead .sorting {
-    background-image: url(../img/down.webp);
+    background-image: url(../img/down.png);
 }
   /* ── Premium Hero & Cards ─────────────────────────────── */
   .premium-calculator-hero {

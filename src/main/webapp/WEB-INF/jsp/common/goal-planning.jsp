@@ -139,7 +139,7 @@
         <div class="about-image-stack sr-child">
           <div class="about-image-stack-teal"></div>
           <div class="about-image-stack-light"></div>
-          <img src="/images/services/Goal_Planning.webp" class="img-fluid" alt="Goal Planning">
+          <img src="/images/services/Goal_Planning.png" class="img-fluid" alt="Goal Planning">
         </div>
       </div>
       <div class="col-lg-7">

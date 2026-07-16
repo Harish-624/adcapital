@@ -372,7 +372,7 @@
 					        <p class="text-justify"><b>Debt Funds:</b> Short term capital gains (holding period &lt; 3 years) are taxed as per income tax slab of the NRI investor, plus the applicable Surcharge and Cess is also payable. This is applicable for investments made till 31st March 2023. Long term capital gains (holding period &gt; 3 years) are taxed (provided the funds are listed) at 20% after indexation, plus applicable Surcharge and Cess is also payable. This is applicable for investments made till 31st March 2023.</p>
 					        <p class="text-justify">However, following the Amendment to Finance Bill 2023, the indexation benefit on debt mutual funds has been withdrawn. Debt funds will now be taxed at the investor's tax slab rate. These changes bring taxation of debt and debt oriented mutual funds at par with fixed deposits for investments made from 1st April 2023 onwards</p>
 					        <p><b>The surcharge rates vary as per income as shown below -</b></p>
-					        <img src="/images/nritax.webp" class="img-fluid" alt="">
+					        <img src="/images/nritax.png" class="img-fluid" alt="">
 					      </div>
 					    </div>
 					  </div>

@@ -221,29 +221,29 @@
       <div class="logo_items">
         <img src="/images/healthlogo/aditya-life.jpg">
         <img src="/images/healthlogo/Care_health_insurance_logo.png">
-        <img src="/images/healthlogo/cigna-health-insurance.webp">
+        <img src="/images/healthlogo/cigna-health-insurance.png">
         <img src="/images/healthlogo/galaxy.png">
         <img src="/images/healthlogo/narayana.jpg">
         <img src="/images/healthlogo/niva.png">
-        <img src="/images/healthlogo/star-health-insurance.webp">
+        <img src="/images/healthlogo/star-health-insurance.png">
       </div>
       <div class="logo_items">
         <img src="/images/healthlogo/aditya-life.jpg">
         <img src="/images/healthlogo/Care_health_insurance_logo.png">
-        <img src="/images/healthlogo/cigna-health-insurance.webp">
+        <img src="/images/healthlogo/cigna-health-insurance.png">
         <img src="/images/healthlogo/galaxy.png">
         <img src="/images/healthlogo/narayana.jpg">
         <img src="/images/healthlogo/niva.png">
-        <img src="/images/healthlogo/star-health-insurance.webp">
+        <img src="/images/healthlogo/star-health-insurance.png">
       </div>
       <div class="logo_items">
         <img src="/images/healthlogo/aditya-life.jpg">
         <img src="/images/healthlogo/Care_health_insurance_logo.png">
-        <img src="/images/healthlogo/cigna-health-insurance.webp">
+        <img src="/images/healthlogo/cigna-health-insurance.png">
         <img src="/images/healthlogo/galaxy.png">
         <img src="/images/healthlogo/narayana.jpg">
         <img src="/images/healthlogo/niva.png">
-        <img src="/images/healthlogo/star-health-insurance.webp">
+        <img src="/images/healthlogo/star-health-insurance.png">
       </div>
     </div>
   </div>

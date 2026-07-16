@@ -1806,7 +1806,7 @@
                                         width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/cigna-health-insurance.webp" height="90" width="200">
+                                    <img src="/images/healthlogo/cigna-health-insurance.png" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/healthlogo/galaxy.png" height="90" width="200">
@@ -1818,7 +1818,7 @@
                                     <img src="/images/healthlogo/niva.png" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/star-health-insurance.webp" height="90" width="200">
+                                    <img src="/images/healthlogo/star-health-insurance.png" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/healthlogo/aditya-life.jpg" height="90" width="200">
@@ -1831,7 +1831,7 @@
 								<img src="/images/home/amc-company/idbi.png" height="90" width="200" alt="" />
 							</div> -->
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/cigna-health-insurance.webp" height="90" width="200">
+                                    <img src="/images/healthlogo/cigna-health-insurance.png" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/healthlogo/galaxy.png" height="90" width="200">
@@ -1846,7 +1846,7 @@
 								<img src="/images/home/amc-company/lnt.png" height="90" width="200" alt="" />
 							</div> -->
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/star-health-insurance.webp" height="90" width="200">
+                                    <img src="/images/healthlogo/star-health-insurance.png" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/lifelogo/acko.jpg" height="90" width="200">
@@ -1864,7 +1864,7 @@
                                     <img src="/images/lifelogo/bandhan.png" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.webp" height="90" width="200">
+                                    <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.jpg" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/lifelogo/CreditAccess.png" height="90" width="200">
@@ -1897,7 +1897,7 @@
                                     <img src="/images/lifelogo/pramerica.png" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/sbi-life-insurance.webp" height="90" width="200">
+                                    <img src="/images/lifelogo/sbi-life-insurance.png" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/lifelogo/shara.png" height="90" width="200">

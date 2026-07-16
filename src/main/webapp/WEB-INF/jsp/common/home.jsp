@@ -286,7 +286,7 @@
 
                 <!-- ── SLIDE 1: Mutual Fund ── -->
                 <div class="hero-slide" id="hSlide0">
-                    <img src="/images/home/banner/wealth-management.png" alt="Mutual Fund Solutions">
+                    <img loading="lazy" src="/images/home/banner/wealth-management.png" alt="Mutual Fund Solutions">
                     <div class="hero-veil"></div>
                     <div class="hero-content">
                         <div class="container">
@@ -313,7 +313,7 @@
 
                 <!-- ── SLIDE 2: GIFT City ── -->
                 <div class="hero-slide" id="hSlide1">
-                    <img src="/images/home/banner/gift-city-hero.png" alt="GIFT City Investments">
+                    <img loading="lazy" src="/images/home/banner/gift-city-hero.png" alt="GIFT City Investments">
                     <div class="hero-veil"></div>
                     <div class="hero-content">
                         <div class="container">
@@ -336,7 +336,7 @@
 
                 <!-- ── SLIDE 3: Health Insurance ── -->
                 <div class="hero-slide" id="hSlide2">
-                    <img src="/images/home/banner/health-protection.png" alt="Health Insurance">
+                    <img loading="lazy" src="/images/home/banner/health-protection.png" alt="Health Insurance">
                     <div class="hero-veil"></div>
                     <div class="hero-content">
                         <div class="container">
@@ -364,7 +364,7 @@
 
                 <!-- ── SLIDE 4: Life Insurance ── -->
                 <div class="hero-slide" id="hSlide3">
-                    <img src="/images/home/banner/life-security.png" alt="Life Insurance">
+                    <img loading="lazy" src="/images/home/banner/life-security.png" alt="Life Insurance">
                     <div class="hero-veil"></div>
                     <div class="hero-content">
                         <div class="container">

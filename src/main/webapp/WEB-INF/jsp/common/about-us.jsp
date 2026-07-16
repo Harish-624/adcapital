@@ -713,7 +713,7 @@
                   <div class="team-photo-col">
                     <div class="team-photo-wrapper">
                       <div class="team-photo-frame">
-                        <img src="/images/testmonial/Aravind.png" alt="Aravind Elangovan" loading="lazy">
+                        <img src="/images/testmonial/Aravind.png" alt="Aravind Elangovan">
                       </div>
                     </div>
                     <!-- badges -->
@@ -804,7 +804,7 @@
                   <div class="team-photo-col">
                     <div class="team-photo-wrapper">
                       <div class="team-photo-frame">
-                        <img src="/images/testmonial/Akilan.jpg" alt="Ahilan" loading="lazy">
+                        <img src="/images/testmonial/Akilan.jpg" alt="Ahilan">
                       </div>
                     </div>
                     <div class="team-badge-row">
@@ -845,7 +845,7 @@
                   <div class="team-photo-col">
                     <div class="team-photo-wrapper">
                       <div class="team-photo-frame">
-                        <img src="/images/testmonial/Vasanth.jpg" alt="Vasanth" loading="lazy">
+                        <img src="/images/testmonial/Vasanth.jpg" alt="Vasanth">
                       </div>
                     </div>
                     <div class="team-badge-row">
@@ -889,7 +889,7 @@
                   <div class="team-photo-col">
                     <div class="team-photo-wrapper">
                       <div class="team-photo-frame">
-                        <img src="/images/testmonial/Akilandeswari.jpg" alt="Akilandeswari" loading="lazy">
+                        <img src="/images/testmonial/Akilandeswari.jpg" alt="Akilandeswari">
                       </div>
                     </div>
                     <div class="team-badge-row">

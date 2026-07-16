@@ -2367,7 +2367,7 @@
 
 <script>
 (function () {
-  var STORAGE_KEY = 'pm_dismissed';
+  var STORAGE_KEY = 'pm_dismissed_time';
   var modal = document.getElementById('processModal');
 
   function openPM() {
@@ -2378,7 +2378,10 @@
   window.closePM = function () {
     modal.classList.remove('pm-visible');
     document.body.style.overflow = '';
-    try { sessionStorage.setItem(STORAGE_KEY, '1'); } catch(e){}
+    try { 
+      // Save the current timestamp when dismissed
+      localStorage.setItem(STORAGE_KEY, Date.now().toString()); 
+    } catch(e){}
   };
 
   window.navigateFromPM = function (event, url) {
@@ -2389,8 +2392,18 @@
     }, 450); // Wait for the transition to complete (450ms)
   };
 
-  // Show after 1.5s on every visit
-  setTimeout(openPM, 1500);
+  // Show after 1.5s, but only once every 24 hours
+  try {
+    var lastDismissed = localStorage.getItem(STORAGE_KEY);
+    var oneDay = 24 * 60 * 60 * 1000; // 24 hours in milliseconds
+    
+    // If never dismissed, or if it's been more than 24 hours since last dismiss
+    if (!lastDismissed || (Date.now() - parseInt(lastDismissed)) > oneDay) {
+      setTimeout(openPM, 1500);
+    }
+  } catch(e) {
+    setTimeout(openPM, 1500);
+  }
 
   // Close on Escape key
   document.addEventListener('keydown', function(e) {

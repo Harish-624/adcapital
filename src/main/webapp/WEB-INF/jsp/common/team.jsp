@@ -149,7 +149,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/anirudh_2.jpg" alt="Anirudh Dar">
+                <img src="/img/team/anirudh_2.jpg" alt="Anirudh Dar" loading="lazy">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -174,7 +174,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/rohini.jpg" alt="Rohini Wadhwa">
+                <img src="/img/team/rohini.jpg" alt="Rohini Wadhwa" loading="lazy">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -196,7 +196,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/aarti.jpg" alt="Arti Sahgal">
+                <img src="/img/team/aarti.jpg" alt="Arti Sahgal" loading="lazy">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -218,7 +218,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/savita.jpg" alt="Savita Sharma">
+                <img src="/img/team/savita.jpg" alt="Savita Sharma" loading="lazy">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -240,7 +240,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/amit.jpg" alt="Amit Gupta">
+                <img src="/img/team/amit.jpg" alt="Amit Gupta" loading="lazy">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -262,7 +262,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/vishnu.jpg" alt="Vishnu Kumar">
+                <img src="/img/team/vishnu.jpg" alt="Vishnu Kumar" loading="lazy">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -284,7 +284,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/sherry.jpg" alt="Sherry Jindal">
+                <img src="/img/team/sherry.jpg" alt="Sherry Jindal" loading="lazy">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -306,7 +306,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/smriti.jpg" alt="Smriti Mehra">
+                <img src="/img/team/smriti.jpg" alt="Smriti Mehra" loading="lazy">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">
@@ -328,7 +328,7 @@
             <div class="col-md-4 text-center">
               <div class="team-img-wrapper">
                 <div class="team-img-backing"></div>
-                <img src="/img/team/tamanna.jpg" alt="Tamanna Saini">
+                <img src="/img/team/tamanna.jpg" alt="Tamanna Saini" loading="lazy">
               </div>
             </div>
             <div class="col-md-8 mt-4 mt-md-0">

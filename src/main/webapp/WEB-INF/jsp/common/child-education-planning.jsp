@@ -313,7 +313,7 @@
               <div class="about-image-stack sr-child">
                 <div class="about-image-stack-teal"></div>
                 <div class="about-image-stack-light"></div>
-                <img src="/images/services/Child_Education_planning.webp" class="img-fluid" alt="Child Education Planning">
+                <img src="/images/services/Child_Education_planning.webp" class="img-fluid" alt="Child Education Planning" loading="lazy">
               </div>
             </div>
             <div class="col-lg-7">

@@ -143,7 +143,7 @@ $(document).ready(function(){
 		    	<div class="col-xs-12 col-md-12 col-sm-12 text-center marginTop0 marginBottom15">    
 		    		<c:if test="${not empty mfBarAd && fn:length(mfBarAd) > 0}">
 					 <c:forEach var="adv" items="${mfBarAd}">
-					     <a href="${adv.add_link}" target="_blank" onclick="saveAdvertisementClick('${adv.id}')"><img class="img-responsive" src="/resources/images/ads/${adv.add_image}" alt="${adv.add_name}"/></a>
+					     <a href="${adv.add_link}" target="_blank" onclick="saveAdvertisementClick('${adv.id}')"><img class="img-responsive" src="/resources/images/ads/${adv.add_image}" alt="${adv.add_name}" loading="lazy"/></a>
 					     <br/>
 					 </c:forEach>
 					 </c:if>  

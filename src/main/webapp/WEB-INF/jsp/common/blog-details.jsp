@@ -199,7 +199,7 @@
       <div class="col-lg-10">
         <div class="detail-main-card sr-reveal">
           <c:if test="${not empty blogs.image}">
-            <img src="<c:url value="${blogs.image}"/>" alt="${blogs.title}" class="detail-featured-image">
+            <img src="<c:url value="${blogs.image}" loading="lazy"/>" alt="${blogs.title}" class="detail-featured-image">
           </c:if>
           
           <div class="detail-body">

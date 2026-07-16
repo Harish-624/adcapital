@@ -125,7 +125,7 @@
         <div class="about-image-stack sr-child">
           <div class="about-image-stack-teal"></div>
           <div class="about-image-stack-light"></div>
-          <img src="/images/services/Vehicle_Insurance.webp" class="img-fluid" alt="Vehicle Insurance">
+          <img src="/images/services/Vehicle_Insurance.webp" class="img-fluid" alt="Vehicle Insurance" loading="lazy">
         </div>
       </div>
       <div class="col-lg-7">

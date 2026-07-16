@@ -2119,22 +2119,22 @@
 									      			<div class="marginTop15 padding0 text-center">
 									      				<c:choose>
 															<c:when test="${fn:toLowerCase(schemeMapping.riskometer) eq 'low'}">
-																<img class="w-75 mt-5" src="/images/riskometer/low.png" alt="riskometer" />
+																<img class="w-75 mt-5" src="/images/riskometer/low.png" alt="riskometer" loading="lazy" />
 															</c:when>
 															<c:when test="${fn:toLowerCase(schemeMapping.riskometer) eq 'moderately low' || fn:toLowerCase(schemeMapping.riskometer) eq 'low to moderate'}">
-																<img class="w-75 mt-5" src="/images/riskometer/low_to_moderate.png" alt="riskometer" />
+																<img class="w-75 mt-5" src="/images/riskometer/low_to_moderate.png" alt="riskometer" loading="lazy" />
 															</c:when>
 															<c:when test="${fn:toLowerCase(schemeMapping.riskometer) eq 'moderate'}">
-																<img class="w-75 mt-5" src="/images/riskometer/moderate.png" alt="riskometer" />
+																<img class="w-75 mt-5" src="/images/riskometer/moderate.png" alt="riskometer" loading="lazy" />
 															</c:when>
 															<c:when test="${fn:toLowerCase(schemeMapping.riskometer) eq 'moderately high'}">
-																<img class="w-75 mt-5" src="/images/riskometer/moderately_high.png" alt="riskometer" />
+																<img class="w-75 mt-5" src="/images/riskometer/moderately_high.png" alt="riskometer" loading="lazy" />
 															</c:when>
 															<c:when test="${fn:toLowerCase(schemeMapping.riskometer) eq 'high'}">
-																<img class="w-75 mt-5" src="/images/riskometer/high.png" alt="riskometer" />
+																<img class="w-75 mt-5" src="/images/riskometer/high.png" alt="riskometer" loading="lazy" />
 															</c:when>
 															<c:when test="${fn:toLowerCase(schemeMapping.riskometer) eq 'very high'}">
-																<img class="w-75 mt-5" src="/images/riskometer/very_high.png" alt="riskometer" />
+																<img class="w-75 mt-5" src="/images/riskometer/very_high.png" alt="riskometer" loading="lazy" />
 															</c:when>
 														</c:choose>
 									   				</div>

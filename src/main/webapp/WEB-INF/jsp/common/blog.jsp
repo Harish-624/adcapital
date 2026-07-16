@@ -222,7 +222,7 @@
         <a href="/blog/${blogs.id}" style="text-decoration: none;">
           <div class="premium-blog-card">
             <div class="blog-img-wrapper">
-              <img src="${blogs.image}" alt="<c:out value="${blogs.title}"/>">
+              <img src="${blogs.image}" alt="<c:out value="${blogs.title}" loading="lazy"/>">
             </div>
             <div class="blog-card-content">
               <div class="blog-meta">

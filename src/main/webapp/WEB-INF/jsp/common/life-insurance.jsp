@@ -141,7 +141,7 @@
         <div class="about-image-stack sr-child">
           <div class="about-image-stack-teal"></div>
           <div class="about-image-stack-light"></div>
-          <img src="/images/services/Life_Insurance.webp" class="img-fluid" alt="Life Insurance">
+          <img src="/images/services/Life_Insurance.webp" class="img-fluid" alt="Life Insurance" loading="lazy">
         </div>
       </div>
       <div class="col-lg-7">

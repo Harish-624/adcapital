@@ -139,7 +139,7 @@
         <div class="about-image-stack sr-child">
           <div class="about-image-stack-teal"></div>
           <div class="about-image-stack-light"></div>
-          <img src="/images/services/Retirement_Planning.webp" class="img-fluid" alt="Retirement Planning">
+          <img src="/images/services/Retirement_Planning.webp" class="img-fluid" alt="Retirement Planning" loading="lazy">
         </div>
       </div>
       <div class="col-lg-7">

@@ -713,7 +713,7 @@
                   <div class="team-photo-col">
                     <div class="team-photo-wrapper">
                       <div class="team-photo-frame">
-                        <img src="/images/testmonial/Aravind.webp" alt="Aravind Elangovan" loading="lazy">
+                        <img src="/images/testmonial/Aravind.png" alt="Aravind Elangovan" loading="lazy">
                       </div>
                     </div>
                     <!-- badges -->

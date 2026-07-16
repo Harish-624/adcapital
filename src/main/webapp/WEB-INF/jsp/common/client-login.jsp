@@ -677,7 +677,7 @@ $(document).ready(function(){
         <h4 class="modal-title"></h4>
       </div> 
       <div class="modal-body">
-        <img src="/img/Plutus alert.png" class="img-responsive" style="width:100%;" /> 
+        <img src="/img/Plutus alert.png" class="img-responsive" style="width:100%;" loading="lazy" /> 
       </div>
 	  <!-- <div class="modal-footer">
         <button type="button" class="btn btn-default btn-sm" data-dismiss="modal">Close</button>

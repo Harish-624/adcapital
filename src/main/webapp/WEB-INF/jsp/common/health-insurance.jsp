@@ -134,7 +134,7 @@
         <div class="about-image-stack w-100 text-center sr-child">
           <div class="about-image-stack-teal"></div>
           <div class="about-image-stack-light"></div>
-          <img src="/images/services/health-insurance.webp" class="img-fluid" alt="Health Insurance">
+          <img src="/images/services/health-insurance.webp" class="img-fluid" alt="Health Insurance" loading="lazy">
         </div>
       </div>
       <div class="col-lg-6 offset-lg-1">

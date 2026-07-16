@@ -23,6 +23,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -71,19 +72,13 @@ public class HomeController
 
 	 		String formattedUrl, result = "";
 	 		
-	 		
-	 		
-
 	 		HashMap<String, String> hashMap = new HashMap<String, String>();	 			 		
 	 		Gson gson = new GsonBuilder().setDateFormat("dd-MM-yyyy").create();	 				 	
 	 		
-	 		
-	        
 			String pageid = request.getParameter("pageid");
 			hashMap.put("pageid", String.valueOf(pageid));
 			hashMap.put("category", "All");
 			hashMap.put("key", "103ee40d-cbb2-4849-b6c5-e5f500a60bc5");
-			
 			
 			formattedUrl = MfApiAccessor.getFormattedUrl(MfApiUrls.getAllBlogs, hashMap);
 			if (result != null && !result.trim().isEmpty()) {
@@ -104,7 +99,6 @@ public class HomeController
 	 			System.out.println("Skipping getLatestBlogs - result is null or empty");
 	 		}
 			
-            
            	hashMap = new HashMap<String, String>();
             hashMap.put("pageid", pageid);
             hashMap.put("category", "Mutual Fund");
@@ -129,9 +123,6 @@ public class HomeController
 			
 	     	request.setAttribute("page", "home");
 	     	request.setAttribute("jsp", "../common/home.jsp");
-	     	
-	     //	request.setAttribute("page", "coming soon");
-	     	//request.setAttribute("jsp", "../common/coming-soon.jsp");
 		}
 		catch (Exception e) {
 			e.printStackTrace();

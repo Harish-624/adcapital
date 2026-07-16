@@ -288,7 +288,7 @@
                 <div class="hero-slide" id="hSlide0">
                     <picture>
                         <source srcset="/images/home/banner/wealth-management.webp" type="image/webp">
-                        <img fetchpriority="high" src="/images/home/banner/wealth-management.png" alt="Mutual Fund Solutions">
+                        <img fetchpriority="high" src="/images/home/banner/wealth-management.webp" alt="Mutual Fund Solutions">
                     </picture>
                     <div class="hero-veil"></div>
                     <div class="hero-content">
@@ -318,7 +318,7 @@
                 <div class="hero-slide" id="hSlide1">
                     <picture>
                         <source srcset="/images/home/banner/gift-city-hero.webp" type="image/webp">
-                        <img loading="lazy" src="/images/home/banner/gift-city-hero.png" alt="GIFT City Investments">
+                        <img loading="lazy" src="/images/home/banner/gift-city-hero.webp" alt="GIFT City Investments">
                     </picture>
                     <div class="hero-veil"></div>
                     <div class="hero-content">
@@ -344,7 +344,7 @@
                 <div class="hero-slide" id="hSlide2">
                     <picture>
                         <source srcset="/images/home/banner/health-protection.webp" type="image/webp">
-                        <img loading="lazy" src="/images/home/banner/health-protection.png" alt="Health Insurance">
+                        <img loading="lazy" src="/images/home/banner/health-protection.webp" alt="Health Insurance">
                     </picture>
                     <div class="hero-veil"></div>
                     <div class="hero-content">
@@ -375,7 +375,7 @@
                 <div class="hero-slide" id="hSlide3">
                     <picture>
                         <source srcset="/images/home/banner/life-security.webp" type="image/webp">
-                        <img loading="lazy" src="/images/home/banner/life-security.png" alt="Life Insurance">
+                        <img loading="lazy" src="/images/home/banner/life-security.webp" alt="Life Insurance">
                     </picture>
                     <div class="hero-veil"></div>
                     <div class="hero-content">
@@ -552,7 +552,7 @@
                                         <div class="card-body px-4 py-4">
                                             <div class="icon-glow-wrapper">
                                                 <div class="icon-glow"></div>
-                                                <img src="/images/home/mutual-fund-3d.png" width="155px"
+                                                <img src="/images/home/mutual-fund-3d.webp" width="155px"
                                                     class="floating-icon">
                                             </div>
                                             <h5 class="mb-3">Mutual Fund <br>Advisory</h5>
@@ -567,7 +567,7 @@
                                         <div class="card-body px-4 py-4">
                                             <div class="icon-glow-wrapper">
                                                 <div class="icon-glow"></div>
-                                                <img src="/images/home/Goal_Planning_3d.png" width="155px"
+                                                <img src="/images/home/Goal_Planning_3d.webp" width="155px"
                                                     class="floating-icon">
                                             </div>
                                             <h5 class="mb-3">Goal-Oriented <br>Financial Planning</h5>
@@ -582,7 +582,7 @@
                                         <div class="card-body px-4 py-4">
                                             <div class="icon-glow-wrapper">
                                                 <div class="icon-glow"></div>
-                                                <img src="/images/home/retirement-3d.png" width="155px"
+                                                <img src="/images/home/retirement-3d.webp" width="155px"
                                                     class="floating-icon">
                                             </div>
                                             <h5 class="mb-3">Retirement Planning for a <br>Secured Future</h5>
@@ -597,7 +597,7 @@
                                         <div class="card-body px-4 py-4">
                                             <div class="icon-glow-wrapper">
                                                 <div class="icon-glow"></div>
-                                                <img src="/images/home/health-3d.png" width="155px"
+                                                <img src="/images/home/health-3d.webp" width="155px"
                                                     class="floating-icon">
                                             </div>
                                             <h5 class="mb-3">Life Insurance and Health Insurance</h5>
@@ -613,7 +613,7 @@
                                         <div class="card-body px-4 py-4">
                                             <div class="icon-glow-wrapper">
                                                 <div class="icon-glow"></div>
-                                                <img src="/images/home/gift-city-3d.png" width="155px"
+                                                <img src="/images/home/gift-city-3d.webp" width="155px"
                                                     class="floating-icon">
                                             </div>
                                             <h5 class="mb-3">Gift City</h5>
@@ -643,7 +643,7 @@
                             <div class="home-about-image-wrapper sr-child">
                                 <div class="home-about-image-backing-teal"></div>
                                 <div class="home-about-image-backing"></div>
-                                <img src="/images/home/home-about-new.png" alt="About A D Capital Investment">
+                                <img src="/images/home/home-about-new.webp" alt="About A D Capital Investment">
                             </div>
                         </div>
                         <div class="col-md-6 order-3">
@@ -672,7 +672,7 @@
 
             <!-- SIP Comparison Section -->
             <section class="py-5 sip-calc-bg mt-lg-5"
-                style="background-image:url('/images/home/home-slider.png'); background-size: cover; background-position: center;">
+                style="background-image:url('/images/home/home-slider.webp'); background-size: cover; background-position: center;">
                 <div class="container py-4 sr-section">
 
                     <!-- Section Header -->
@@ -1806,7 +1806,7 @@
                                         width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/cigna-health-insurance.png" height="90" width="200">
+                                    <img src="/images/healthlogo/cigna-health-insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/healthlogo/galaxy.png" height="90" width="200">
@@ -1818,7 +1818,7 @@
                                     <img src="/images/healthlogo/niva.png" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/star-health-insurance.png" height="90" width="200">
+                                    <img src="/images/healthlogo/star-health-insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/healthlogo/aditya-life.jpg" height="90" width="200">
@@ -1831,7 +1831,7 @@
 								<img src="/images/home/amc-company/idbi.png" height="90" width="200" alt="" />
 							</div> -->
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/cigna-health-insurance.png" height="90" width="200">
+                                    <img src="/images/healthlogo/cigna-health-insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/healthlogo/galaxy.png" height="90" width="200">
@@ -1846,7 +1846,7 @@
 								<img src="/images/home/amc-company/lnt.png" height="90" width="200" alt="" />
 							</div> -->
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/healthlogo/star-health-insurance.png" height="90" width="200">
+                                    <img src="/images/healthlogo/star-health-insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/lifelogo/acko.jpg" height="90" width="200">
@@ -1864,7 +1864,7 @@
                                     <img src="/images/lifelogo/bandhan.png" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.jpg" height="90" width="200">
+                                    <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/lifelogo/CreditAccess.png" height="90" width="200">
@@ -1897,7 +1897,7 @@
                                     <img src="/images/lifelogo/pramerica.png" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
-                                    <img src="/images/lifelogo/sbi-life-insurance.png" height="90" width="200">
+                                    <img src="/images/lifelogo/sbi-life-insurance.webp" height="90" width="200">
                                 </div>
                                 <div class="item client-logo-slide sr-child">
                                     <img src="/images/lifelogo/shara.png" height="90" width="200">
@@ -2272,7 +2272,7 @@
         <p class="pm-subtitle">We follow a disciplined and transparent process to help you build wealth and achieve your financial goals.</p>
         <picture class="pm-illustration">
           <source srcset="/images/home/process_illustration.webp" type="image/webp">
-          <img src="/images/home/process_illustration.png" fetchpriority="high" alt="Investment Process Illustration" style="width:100%; height:auto;">
+          <img src="/images/home/process_illustration.webp" fetchpriority="high" alt="Investment Process Illustration" style="width:100%; height:auto;">
         </picture>
       </div>
 

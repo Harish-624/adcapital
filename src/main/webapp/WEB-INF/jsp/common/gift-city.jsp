@@ -162,7 +162,7 @@
                     <div class="row g-5">
                         <div class="col-12 sr-child">
                             <div class="premium-image-wrapper p-3 p-md-4 rounded-4" style="background: #f8f9fa; border: 1px solid #e5e7eb; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-                                <img src="/images/services/gift-city-1.png" alt="GIFT City Infrastructure" class="img-fluid rounded-3 shadow-lg" style="width: 100%; border: 1px solid rgba(0,0,0,0.05);">
+                                <img src="/images/services/gift-city-1.webp" alt="GIFT City Infrastructure" class="img-fluid rounded-3 shadow-lg" style="width: 100%; border: 1px solid rgba(0,0,0,0.05);">
                             </div>
                         </div>
                     </div>
@@ -328,7 +328,7 @@
                     <div class="row g-5">
                         <div class="col-12 sr-child">
                             <div class="premium-image-wrapper p-3 p-md-4 rounded-4" style="background: #f8f9fa; border: 1px solid #e5e7eb; transition: transform 0.3s ease, box-shadow 0.3s ease;">
-                                <img src="/images/services/gift-city-2.png" alt="GIFT City Investments" class="img-fluid rounded-3 shadow-lg" style="width: 100%; border: 1px solid rgba(0,0,0,0.05);">
+                                <img src="/images/services/gift-city-2.webp" alt="GIFT City Investments" class="img-fluid rounded-3 shadow-lg" style="width: 100%; border: 1px solid rgba(0,0,0,0.05);">
                             </div>
                         </div>
                     </div>

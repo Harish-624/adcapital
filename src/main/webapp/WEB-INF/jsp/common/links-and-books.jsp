@@ -317,49 +317,49 @@
                   <div class="mv-card">
                     <h3 class="mb-4"><span style="color:#009899;">Step 1:</span> Ensure Appropriate Life Cover</h3>
                     <p class="text-muted mb-4">Protect your family's future with affordable term insurance. It provides financial support and peace of mind when your loved ones need it most.</p>
-                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step1.png" alt="Step 1">
+                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step1.webp" alt="Step 1">
                   </div>
                 </div>
                 <div class="col-12 sr-child">
                   <div class="mv-card">
                     <h3 class="mb-4"><span style="color:#009899;">Step 2:</span> Define Financial Goals</h3>
                     <p class="text-muted mb-4">Goals are grouped into short-, medium-, and long-term categories as a general guide. You can modify them anytime to suit your personal financial needs.</p>
-                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step2.png" alt="Step 2">
+                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step2.webp" alt="Step 2">
                   </div>
                 </div>
                 <div class="col-12 sr-child">
                   <div class="mv-card">
                     <h3 class="mb-4"><span style="color:#009899;">Step 3:</span> Goal-Based Financial Planning</h3>
                     <p class="text-muted mb-4">Every financial goal deserves a dedicated plan. Goal-based financial planning helps align your investments with your short-, medium-, and long-term objectives.</p>
-                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step3.png" alt="Step 3">
+                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step3.webp" alt="Step 3">
                   </div>
                 </div>
                 <div class="col-12 sr-child">
                   <div class="mv-card">
                     <h3 class="mb-4"><span style="color:#009899;">Step 4:</span> Calculate Retirement Corpus</h3>
                     <p class="text-muted mb-4">A well-planned retirement ensures financial security and peace of mind for you and your family. Consistent investing today helps create a comfortable tomorrow.</p>
-                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step4.png" alt="Step 4">
+                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step4.webp" alt="Step 4">
                   </div>
                 </div>
                 <div class="col-12 sr-child">
                   <div class="mv-card">
                     <h3 class="mb-4"><span style="color:#009899;">Step 5:</span> Risk Profile Analysis</h3>
                     <p class="text-muted mb-4">Understanding your risk profile is the foundation of smart investing. A proper risk analysis helps balance potential returns with an acceptable level of risk.</p>
-                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step5.png" alt="Step 5">
+                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step5.webp" alt="Step 5">
                   </div>
                 </div>
                 <div class="col-12 sr-child">
                   <div class="mv-card">
                     <h3 class="mb-4"><span style="color:#009899;">Step 6:</span> Building Your Investment Portfolio</h3>
                     <p class="text-muted mb-4">Asset allocation spreads your investments across different asset classes to manage risk and improve long-term returns. A well-balanced portfolio stays aligned with your financial goals and risk profile.</p>
-                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step6.png" alt="Step 6">
+                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step6.webp" alt="Step 6">
                   </div>
                 </div>
                 <div class="col-12 sr-child">
                   <div class="mv-card">
                     <h3 class="mb-4"><span style="color:#009899;">Step 7:</span> Initiate the SIP with Step-up</h3>
                     <p class="text-muted mb-4">After your confirmation, we will initiate your SIP. Stay updated on your portfolio anytime with convenient web and mobile access across iOS and Android devices.</p>
-                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step7.png" alt="Step 7">
+                    <img class="img-fluid rounded-3 shadow-sm mx-auto d-block" src="/images/process/step7.webp" alt="Step 7">
                   </div>
                 </div>
               </div>

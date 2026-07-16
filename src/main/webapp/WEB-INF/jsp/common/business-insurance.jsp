@@ -313,7 +313,7 @@
               <div class="about-image-stack sr-child">
                 <div class="about-image-stack-teal"></div>
                 <div class="about-image-stack-light"></div>
-                <img src="/images/services/Business_Insurance.png" class="img-fluid" alt="Business Insurance">
+                <img src="/images/services/Business_Insurance.webp" class="img-fluid" alt="Business Insurance">
               </div>
             </div>
             <div class="col-lg-6">

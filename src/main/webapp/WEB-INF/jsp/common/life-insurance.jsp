@@ -141,7 +141,7 @@
         <div class="about-image-stack sr-child">
           <div class="about-image-stack-teal"></div>
           <div class="about-image-stack-light"></div>
-          <img src="/images/services/Life_Insurance.png" class="img-fluid" alt="Life Insurance">
+          <img src="/images/services/Life_Insurance.webp" class="img-fluid" alt="Life Insurance">
         </div>
       </div>
       <div class="col-lg-7">
@@ -228,7 +228,7 @@
         <img src="/images/lifelogo/Aviva-Logo.wine.png">
         <img src="/images/lifelogo/bajaj-allianz.png">
         <img src="/images/lifelogo/bandhan.png">
-        <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.jpg">
+        <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.webp">
         <img src="/images/lifelogo/CreditAccess.png">
         <img src="/images/lifelogo/digit-insurance.png">
         <img src="/images/lifelogo/Future_Generali.jpg">
@@ -239,7 +239,7 @@
         <img src="/images/lifelogo/max.png">
         <img src="/images/lifelogo/pnblife.png">
         <img src="/images/lifelogo/pramerica.png">
-        <img src="/images/lifelogo/sbi-life-insurance.png">
+        <img src="/images/lifelogo/sbi-life-insurance.webp">
         <img src="/images/lifelogo/shara.png">
         <img src="/images/lifelogo/shriramlife.png">
         <img src="/images/lifelogo/star-union.jpg">
@@ -251,7 +251,7 @@
         <img src="/images/lifelogo/Aviva-Logo.wine.png">
         <img src="/images/lifelogo/bajaj-allianz.png">
         <img src="/images/lifelogo/bandhan.png">
-        <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.jpg">
+        <img src="/images/lifelogo/Canara_HSBC_Life_Insurance.webp">
         <img src="/images/lifelogo/CreditAccess.png">
         <img src="/images/lifelogo/digit-insurance.png">
         <img src="/images/lifelogo/Future_Generali.jpg">
@@ -262,7 +262,7 @@
         <img src="/images/lifelogo/max.png">
         <img src="/images/lifelogo/pnblife.png">
         <img src="/images/lifelogo/pramerica.png">
-        <img src="/images/lifelogo/sbi-life-insurance.png">
+        <img src="/images/lifelogo/sbi-life-insurance.webp">
         <img src="/images/lifelogo/shara.png">
         <img src="/images/lifelogo/shriramlife.png">
         <img src="/images/lifelogo/star-union.jpg">

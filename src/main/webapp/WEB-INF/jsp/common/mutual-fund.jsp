@@ -113,7 +113,7 @@
         <div class="about-image-stack sr-child">
           <div class="about-image-stack-teal"></div>
           <div class="about-image-stack-light"></div>
-          <img src="/images/services/mutual_fund.png" class="img-fluid" alt="Mutual Funds">
+          <img src="/images/services/mutual_fund.webp" class="img-fluid" alt="Mutual Funds">
         </div>
       </div>
       <div class="col-lg-7">

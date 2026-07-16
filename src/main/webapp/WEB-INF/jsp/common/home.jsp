@@ -2389,14 +2389,8 @@
     }, 450); // Wait for the transition to complete (450ms)
   };
 
-  // Show after 1.8s on first visit per session
-  try {
-    if (!sessionStorage.getItem(STORAGE_KEY)) {
-      setTimeout(openPM, 1800);
-    }
-  } catch(e) {
-    setTimeout(openPM, 1800);
-  }
+  // Show after 1.5s on every visit
+  setTimeout(openPM, 1500);
 
   // Close on Escape key
   document.addEventListener('keydown', function(e) {

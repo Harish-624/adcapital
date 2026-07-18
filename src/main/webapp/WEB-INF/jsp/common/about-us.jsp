@@ -697,8 +697,6 @@
           <!-- Tab Navigation -->
           <div class="d-flex flex-wrap justify-content-center team-tabs sr-child" id="custom-team-tabs">
             <button class="nav-link active" data-target="panel-aravind"><i class="far fa-user"></i> Aravind Elangovan</button>
-            <button class="nav-link" data-target="panel-ahilan"><i class="far fa-user"></i> Ahilan</button>
-            <button class="nav-link" data-target="panel-vasanth"><i class="far fa-user"></i> Vasanth</button>
             <button class="nav-link" data-target="panel-akilandeswari"><i class="far fa-user"></i> Akilandeswari</button>
           </div>
 
@@ -793,91 +791,6 @@
                   </div>
                   <p class="mt-4">With a client-focused approach and a specialization in handling Gulf region and NRI
                     clients, Manikandan is dedicated to making your financial journey seamless and successful.</p>
-                </div>
-              </div>
-            </div>
-
-            <!-- Ahilan -->
-            <div class="team-panel custom-tab-panel" id="panel-ahilan" style="display: none;">
-              <div class="row align-items-stretch g-4">
-                <div class="col-md-4">
-                  <div class="team-photo-col">
-                    <div class="team-photo-wrapper">
-                      <div class="team-photo-frame">
-                        <img src="/images/testmonial/Akilan.jpg" alt="Ahilan">
-                      </div>
-                    </div>
-                    <div class="team-badge-row">
-                      <div class="team-badge">
-                        <i class="fas fa-umbrella"></i>
-                        <span class="badge-title">IRDAI</span>
-                        <span class="badge-sub">Certified</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-8 team-desc">
-                  <div class="team-about-header">
-                    <i class="far fa-user"></i>
-                    <span>About Ahilan</span>
-                  </div>
-                  <div class="team-about-underline"></div>
-                  <p>At A D Capital Investment, we are proud to have Ahilan as a valuable part of our team. An
-                    IRDAI-certified Insurance Advisor, Ahilan brings a wealth of experience and expertise, ensuring
-                    clients receive top-notch guidance in securing their financial future.</p>
-                  <p>With extensive knowledge in insurance and financial planning, Ahilan is dedicated to helping
-                    individuals and families protect their assets and achieve their long-term goals. His client-centric
-                    approach focuses on providing personalized solutions tailored to unique needs and circumstances.</p>
-                  <div class="d-flex flex-wrap mt-3">
-                    <span class="expertise-pill">Health &amp; Term Insurance</span>
-                    <span class="expertise-pill">Child Education &amp; Retirement Planning</span>
-                  </div>
-                  <p class="mt-3">Ahilan's professionalism, experience, and passion for empowering clients make him an
-                    invaluable part of our team.</p>
-                </div>
-              </div>
-            </div>
-
-            <!-- Vasanth -->
-            <div class="team-panel custom-tab-panel" id="panel-vasanth" style="display: none;">
-              <div class="row align-items-stretch g-4">
-                <div class="col-md-4">
-                  <div class="team-photo-col">
-                    <div class="team-photo-wrapper">
-                      <div class="team-photo-frame">
-                        <img src="/images/testmonial/Vasanth.jpg" alt="Vasanth">
-                      </div>
-                    </div>
-                    <div class="team-badge-row">
-                      <div class="team-badge">
-                        <i class="fas fa-globe"></i>
-                        <span class="badge-title">UK</span>
-                        <span class="badge-sub">Operations</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-8 team-desc">
-                  <div class="team-about-header">
-                    <i class="far fa-user"></i>
-                    <span>About Vasanth</span>
-                  </div>
-                  <div class="team-about-underline"></div>
-                  <p>At A D Capital Investment, we are delighted to have Vasanth leading our operations in the United
-                    Kingdom. With a postgraduate degree from the UK, Vasanth brings a unique perspective and a strong
-                    foundation in analytical thinking to our team.</p>
-                  <p>Vasanth leverages his extensive experience and skill set to efficiently manage the UK operations
-                    team, ensuring seamless service delivery for our international clients. His expertise lies in
-                    coordinating with clients and providing tailored solutions that align with their financial goals.
-                  </p>
-                  <div class="d-flex flex-wrap mt-3">
-                    <span class="expertise-pill">Operational Management</span>
-                    <span class="expertise-pill">Goal-Oriented Solutions</span>
-                    <span class="expertise-pill">Client-Centric Approach</span>
-                  </div>
-                  <p class="mt-3">Vasanth's dedication, professionalism, and leadership make him an integral part of our
-                    team. Whether you're based in the UK or have cross-border financial needs, Vasanth ensures that A D
-                    Capital Investment delivers excellence at every step.</p>
                 </div>
               </div>
             </div>
